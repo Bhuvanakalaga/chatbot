@@ -1,0 +1,605 @@
+# TechNova Solutions Pvt Ltd
+## Human Resources Policy Handbook
+
+**Version:** 2.0
+**Effective Date:** 1 April 2025
+**Last Reviewed:** 1 April 2025
+**Issued by:** Human Resources Department
+**Applicable to:** All employees across all TechNova Solutions offices
+
+---
+
+> This document constitutes the official HR Policy Handbook of TechNova Solutions Pvt Ltd. All employees are required to read, understand, and comply with the policies outlined herein. This handbook supersedes all previous versions and informal communications on these subjects.
+
+---
+
+## Table of Contents
+
+1. Introduction
+2. Employment Policies
+3. Working Hours and Attendance
+4. Leave Policy
+5. Work From Home and Hybrid Work Policy
+6. Compensation and Benefits
+7. Code of Conduct
+8. Information Security and Confidentiality
+9. Grievance and Complaint Handling
+10. Performance Management
+11. Employee Separation
+12. Disciplinary Actions
+13. Acknowledgement
+
+---
+
+## 1. Introduction
+
+### 1.1 Company Overview
+
+TechNova Solutions Pvt Ltd is a fast-growing Indian software development and IT services company headquartered in Bangalore, with offices in Hyderabad, Pune, Chennai, Mumbai, Delhi, Noida, Gurgaon, and Kolkata. Founded with the mission of delivering innovative, scalable, and reliable technology solutions to clients across industry verticals, TechNova Solutions employs over 300 professionals spanning software engineering, data analytics, product management, quality assurance, DevOps, and business operations.
+
+Our culture is built on four pillars: **Innovation**, **Integrity**, **Inclusion**, and **Impact**. We believe that our people are our greatest asset, and we are committed to creating an environment where every employee can do their best work, grow their skills, and contribute meaningfully to the company's goals.
+
+TechNova Solutions operates under a hybrid work model, enabling employees to split their work time between our modern office facilities and their homes, balancing flexibility with collaboration.
+
+### 1.2 Purpose of This Policy Handbook
+
+This HR Policy Handbook exists to:
+
+- Clearly communicate the rights, responsibilities, and expectations of all TechNova Solutions employees.
+- Provide a consistent and fair framework for employment-related decisions.
+- Ensure compliance with applicable Indian labour laws and regulations, including the Industrial Disputes Act, the Shops and Establishments Act applicable to each state, the Maternity Benefit Act, and the Payment of Gratuity Act, among others.
+- Serve as a reference document for employees, managers, and the HR team when questions or situations arise.
+
+This handbook applies to all full-time employees, part-time employees, and contractual staff engaged directly by TechNova Solutions. Third-party contractors and vendor personnel are subject to their respective agreements and are not covered under this handbook unless specifically stated.
+
+Policies in this handbook are subject to revision. Employees will be notified of material changes via email and the internal HR portal. The most current version will always be available on the intranet.
+
+---
+
+## 2. Employment Policies
+
+### 2.1 Equal Opportunity Employment
+
+TechNova Solutions Pvt Ltd is an equal opportunity employer. We recruit, hire, train, promote, and compensate individuals on the basis of their qualifications, skills, and performance—without regard to gender, caste, religion, nationality, age, disability, marital status, sexual orientation, or any other characteristic protected under applicable law.
+
+We are committed to building a diverse and inclusive workforce. Our hiring processes are designed to be objective and merit-based. All job openings are advertised internally and externally to ensure a wide and representative applicant pool.
+
+### 2.2 Non-Discrimination Policy
+
+Discrimination of any kind—direct or indirect—is strictly prohibited at TechNova Solutions. This includes:
+
+- Discriminatory remarks or behaviour in the workplace, in digital communication channels, or at company-sponsored events.
+- Differential treatment during performance evaluations, promotions, or disciplinary actions based on personal characteristics unrelated to job performance.
+- Creating or tolerating a work environment that is hostile or exclusionary toward any individual or group.
+
+Any employee found to have engaged in discriminatory behaviour will be subject to disciplinary action as outlined in Section 12 of this handbook.
+
+### 2.3 Employment Categories
+
+TechNova Solutions classifies employees into the following categories:
+
+- **Full-Time Permanent Employees:** Employees engaged on an indefinite basis who work the standard working hours. This is the most common employment category.
+- **Fixed-Term Contract Employees:** Employees engaged for a specific project or duration, as specified in their contract. Their tenure and entitlements may differ and will be detailed in the offer letter.
+- **Part-Time Employees:** Employees who work fewer than the standard weekly hours. Benefits are provided on a pro-rata basis unless otherwise agreed upon.
+- **Interns and Trainees:** Individuals engaged for learning and development purposes under a structured internship or trainee programme. Separate policies govern intern entitlements.
+
+### 2.4 Probation Period
+
+All new full-time employees join TechNova Solutions on a probation period of **six (6) calendar months** from the date of joining. During this period:
+
+- The employee's performance, conduct, and cultural fit are assessed by their reporting manager and HR.
+- Employees on probation are entitled to leave and benefits as applicable, with the exception that they are not eligible for performance bonuses.
+- The probation period may be extended by up to three additional months if performance has not yet met expectations. The employee will be notified in writing with reasons for the extension.
+- Either party may terminate the employment during probation with a notice period of **30 days** or payment in lieu thereof, unless the separation is for reasons of gross misconduct.
+
+*Example: An employee who joins on 1 June 2025 will complete their probation on 30 November 2025, subject to satisfactory performance.*
+
+### 2.5 Confirmation of Employment
+
+Upon successful completion of the probation period, the employee will receive a formal **Confirmation Letter** from the HR department. Confirmation is subject to:
+
+- A satisfactory probation review conducted by the reporting manager.
+- No active disciplinary proceedings.
+- Completion of all mandatory onboarding requirements, including compliance training and background verification.
+
+Confirmation is not automatic; it requires the explicit issuance of the confirmation letter. Until then, the employee remains on probation even if the six-month period has passed.
+
+---
+
+## 3. Working Hours and Attendance
+
+### 3.1 Working Days
+
+The standard working week at TechNova Solutions is **Monday to Friday**. Saturdays and Sundays are non-working days, unless an employee is required to work on these days due to project exigencies. Work on weekends requires prior approval from the reporting manager and will be subject to compensatory leave as per the policy.
+
+### 3.2 Standard Working Hours
+
+The standard working hours are **9:00 AM to 6:00 PM**, inclusive of a 30-minute lunch break and two short breaks of 10 minutes each. The total billable work time per day is **8 hours**.
+
+Employees are expected to log in by 9:15 AM at the latest. Consistent late arrivals without prior information to the manager may be treated as an attendance concern and addressed through the performance management process.
+
+### 3.3 Attendance Expectations
+
+- Employees are required to mark their attendance using the company's attendance management system (AMS), whether working from the office or from home.
+- Absences must be reported to the reporting manager and HR by **9:30 AM** on the day of absence, or in advance wherever possible.
+- Uninformed absences of more than two consecutive working days without approved leave may be treated as loss of pay and, if persistent, as abandonment of employment.
+- Monthly attendance reports are reviewed by HR and flagged to managers when an employee's attendance falls below 85% in a given month, excluding approved leave.
+
+### 3.4 Flexible Work Arrangements
+
+TechNova Solutions recognises that rigid schedules may not suit all roles or personal circumstances. Employees may apply for flexible working arrangements, which include:
+
+- **Flexible Start and End Times (Flexitime):** Employees may shift their start time to between 8:00 AM and 10:30 AM, with the corresponding end time adjusted to ensure 8 hours of work are completed. For example, an employee who starts at 10:00 AM is expected to work until 7:00 PM.
+- **Compressed Work Week:** In exceptional cases and with business justification, employees may work longer hours over four days per week. This requires written approval from the department head and HR.
+
+Flexible arrangements are subject to business needs, team availability, and manager discretion. They do not apply to roles that require fixed shift coverage or client-facing responsibilities at specific hours.
+
+---
+
+## 4. Leave Policy
+
+TechNova Solutions provides a comprehensive leave structure that balances employee wellbeing with business continuity. The leave year runs from **1 January to 31 December**.
+
+### 4.1 Annual Leave (Earned Leave)
+
+- Permanent employees are entitled to **20 days of Annual Leave (AL)** per leave year.
+- Annual Leave is accrued at the rate of 1.67 days per month.
+- Employees who join during the year are entitled to Annual Leave on a pro-rata basis.
+- Annual Leave can be carried forward up to a maximum of **10 days** to the subsequent year. Any unused leave beyond 10 days will lapse on 31 December.
+- Annual Leave should be applied for at least **5 working days in advance** through the HRMS portal, except in genuine emergencies.
+
+### 4.2 Sick Leave
+
+- Employees are entitled to **12 days of Sick Leave (SL)** per year.
+- Sick Leave does not carry forward to the next year and is not encashable.
+- For sick leave of more than **2 consecutive days**, a medical certificate from a registered medical practitioner must be submitted to HR within 3 days of returning to work.
+- Sick Leave may not be clubbed with Annual Leave without the approval of the reporting manager and HR.
+
+### 4.3 Casual Leave
+
+- Employees are entitled to **5 days of Casual Leave (CL)** per year.
+- Casual Leave is for unplanned personal exigencies and cannot be taken for more than **3 consecutive days** at a time.
+- Casual Leave does not carry forward and is not encashable.
+- Casual Leave may not be combined with Annual Leave.
+
+### 4.4 Public Holidays
+
+TechNova Solutions observes **national public holidays** as mandated, including Republic Day (26 January), Independence Day (15 August), and Gandhi Jayanti (2 October). In addition, each office location observes **regional public holidays** applicable to the respective state. Employees will receive the annual holiday list for their location via the HRMS portal at the beginning of each calendar year.
+
+Where an employee is required to work on a public holiday for business exigencies, they are entitled to a compensatory off to be availed within 30 days.
+
+### 4.5 Maternity Leave
+
+In accordance with the Maternity Benefit (Amendment) Act, 2017:
+
+- Female employees who have worked with TechNova Solutions for a minimum of 80 days in the 12 months preceding the expected date of delivery are entitled to **26 weeks of paid Maternity Leave** for the first two children.
+- For the third child onwards, maternity leave is **12 weeks**.
+- In cases of adoption of a child below the age of 3 months or commissioning mothers under surrogacy arrangements, **12 weeks of Maternity Leave** is applicable.
+- Employees must submit relevant medical documentation and inform HR at least 8 weeks before the commencement of maternity leave, wherever possible.
+
+### 4.6 Paternity Leave
+
+- Male employees and adoptive parents are entitled to **10 days of paid Paternity Leave**, to be availed within 3 months of the birth or adoption of a child.
+- Paternity Leave is available for up to two children.
+
+### 4.7 Bereavement Leave
+
+- Employees are entitled to **5 days of paid Bereavement Leave** in the event of the death of an immediate family member. Immediate family is defined as spouse, child, parent, sibling, or parent-in-law.
+- For the death of an extended family member (grandparents, spouse's siblings), **2 days of Bereavement Leave** is provided.
+- Employees are expected to inform their manager and HR at the earliest opportunity. Supporting documentation may be requested.
+
+### 4.8 Leave Approval Process
+
+- All leave requests (except emergency sick leave) must be submitted through the HRMS portal at least **2 working days in advance** for Casual Leave, and at least **5 working days in advance** for Annual Leave.
+- The reporting manager must approve or reject the request within 2 working days of submission.
+- In case a manager is unavailable, the request escalates to the next level of management.
+- Leave taken without prior approval and without subsequent notification will be treated as Loss of Pay (LOP).
+- HR reserves the right to decline or defer leave requests where business requirements demand team presence, particularly during critical project phases or audit periods.
+
+---
+
+## 5. Work From Home and Hybrid Work Policy
+
+### 5.1 Overview
+
+TechNova Solutions operates on a hybrid work model. Employees are expected to work from the office for a minimum of **3 days per week** (typically Tuesday, Wednesday, and Thursday, with Monday and Friday as remote-eligible days), unless their role requires daily office presence.
+
+### 5.2 Eligibility
+
+All permanent employees who have completed their probation period are eligible to work from home on designated days. Employees on probation may request WFH arrangements after completing the first 60 days, subject to manager approval.
+
+### 5.3 Approval Requirements
+
+- The default hybrid schedule (3 days in office, 2 days WFH) does not require explicit approval but must be consistent with the team's agreed-upon in-office days.
+- Requests for **full remote work** (all 5 days from home) for a period longer than one week require the approval of both the reporting manager and the HR department. Such requests are evaluated case by case and may be granted for reasons such as personal health, family caregiving responsibilities, or relocation.
+- Temporary full-remote arrangements lasting up to 2 weeks can be approved at the manager level during periods such as home renovation, illness recovery, or travel to a family emergency.
+
+### 5.4 Productivity Expectations
+
+Working from home does not alter the productivity, quality, or responsiveness standards expected of TechNova employees. Employees working remotely are expected to:
+
+- Be available during core hours of **10:00 AM to 5:00 PM** for meetings, calls, and collaboration.
+- Respond to messages and emails within **2 hours** during working hours.
+- Attend all scheduled meetings via video with camera on, unless technical issues prevent this.
+- Log attendance and mark their WFH status on the HRMS portal each day.
+- Maintain daily task updates on the relevant project management tool (Jira, Asana, or equivalent).
+
+### 5.5 Remote Work Guidelines
+
+- Employees are responsible for ensuring a reliable internet connection and a distraction-free workspace.
+- Work must be performed from within India. Remote work from abroad requires prior written approval from HR and is governed by a separate expatriate remote work policy.
+- Company data must not be accessed or stored on personal, unsecured devices. The company will provide a VPN for secure remote access.
+- If a WFH employee experiences a technical issue affecting their work, they must inform their manager immediately and explore alternatives (such as using a company laptop from a co-working space) to minimise disruption.
+
+---
+
+## 6. Compensation and Benefits
+
+### 6.1 Salary Payments
+
+- Salaries are credited to employees' registered bank accounts on or before the **last working day of each calendar month**.
+- The salary structure includes: Basic Salary, House Rent Allowance (HRA), Special Allowance, and applicable statutory deductions (Provident Fund, Professional Tax, Income Tax at source).
+- Salary slips are generated and made available on the HRMS portal by the 5th of the following month.
+- Any discrepancies in salary must be reported to the HR and Payroll team within **5 working days** of the salary credit.
+
+### 6.2 Performance Reviews and Appraisals
+
+- TechNova Solutions conducts **two formal performance reviews** per year: a mid-year review in **July** and an annual appraisal in **January**.
+- Salary revisions and performance increments, if applicable, are implemented effective **1 February** of each year, based on the annual appraisal outcomes.
+- Performance ratings range from Exceeds Expectations, Meets Expectations, Partially Meets Expectations, to Does Not Meet Expectations. Only employees with ratings of Meets Expectations or above are eligible for increments and bonuses.
+
+### 6.3 Health Insurance
+
+- All permanent employees are covered under TechNova's Group Health Insurance plan from Day 1 of employment.
+- The policy provides coverage of **₹5,00,000 per employee per year**, with the option to add dependants (spouse, children, parents) at subsidised group rates.
+- The company bears the premium for the employee. Dependant coverage premium is partially subsidised (company bears 50%, employee bears 50% through payroll deduction).
+- Pre-existing conditions are covered subject to the terms of the insurance policy. A policy summary and the list of network hospitals are available on the HR intranet.
+
+### 6.4 Dental Insurance
+
+- Employees are covered under a **Group Dental Insurance plan** providing up to ₹15,000 per year for preventive, basic restorative, and major dental procedures.
+- Orthodontic treatment is not covered under the group plan.
+- Claims must be submitted through the insurance provider's portal within 30 days of the treatment date.
+
+### 6.5 Employee Wellness Programme
+
+TechNova Solutions is committed to the holistic wellbeing of its workforce. Our wellness programme includes:
+
+- Access to a confidential **Employee Assistance Programme (EAP)** offering up to 6 free counselling sessions per year with licensed mental health professionals.
+- Company-sponsored gym membership reimbursement of up to **₹5,000 per year** upon submission of valid receipts.
+- Quarterly wellness webinars on topics including mental health, nutrition, financial planning, and ergonomics.
+- Annual health check-up at empanelled diagnostic centres at no cost to the employee.
+
+### 6.6 Learning and Development Budget
+
+- Every permanent employee is entitled to a **Learning and Development (L&D) Budget of ₹50,000 per financial year**.
+- This budget can be used for external courses, certifications, conferences, technical workshops, and relevant books or learning materials.
+- Employees must obtain approval from their manager and HR before spending from this budget. Reimbursements are processed within 15 working days of submitting the claim with valid receipts.
+- Certifications funded by the company come with a **retention obligation of 12 months** from the date of reimbursement. If an employee exits before completing this period, a pro-rata recovery may be made from the full and final settlement.
+
+*Example: An employee who completes an AWS Solutions Architect certification worth ₹40,000 in October 2025 and resigns in March 2026 (within 12 months) may have a portion of the cost recovered from their FnF.*
+
+### 6.7 Employee Referral Programme
+
+- Employees are encouraged to refer qualified candidates for open positions at TechNova Solutions through the internal **Employee Referral Programme (ERP)**.
+- A referral bonus is paid as follows: **₹25,000 for a non-technical role** and **₹50,000 for a technical role** at or above the Senior Engineer level.
+- The bonus is paid in two tranches: 50% on the referred employee's joining date, and 50% on successful completion of the referred employee's probation period.
+- Employees in the HR and Talent Acquisition team are not eligible for referral bonuses. Referrals for roles in the referring employee's own reporting chain require HR approval.
+
+---
+
+## 7. Code of Conduct
+
+### 7.1 Professional Behaviour
+
+All TechNova Solutions employees are expected to demonstrate professional behaviour at all times—whether in the office, working remotely, or representing the company at external events. Professional behaviour includes:
+
+- Meeting deadlines and communicating proactively when timelines are at risk.
+- Treating colleagues, clients, and vendors with courtesy and respect.
+- Dressing appropriately for the work context (business casual is the standard for in-office days; client visits may require formal attire).
+- Maintaining confidentiality and discretion in matters related to company operations, client data, and colleague information.
+
+### 7.2 Respectful Workplace
+
+TechNova Solutions is committed to fostering a workplace that is safe, inclusive, and free from any form of intimidation or hostility. Every employee has the right to work in an environment that promotes dignity. The following behaviours are unacceptable:
+
+- Verbal or written abuse, threats, or derogatory remarks targeting any individual.
+- Bullying, whether in person or through digital communication channels.
+- Exclusion or ostracism of colleagues based on personal characteristics.
+- Behaviour that undermines the psychological safety of team members.
+
+Managers are particularly responsible for modelling respectful behaviour and immediately addressing any violations they observe or are made aware of within their teams.
+
+### 7.3 Anti-Harassment Policy
+
+TechNova Solutions has a zero-tolerance policy towards sexual harassment in the workplace, in accordance with the Prevention, Prohibition and Redressal of Sexual Harassment of Women at Workplace (POSH) Act, 2013.
+
+- A duly constituted **Internal Complaints Committee (ICC)** is in place at each location to receive and investigate complaints.
+- Any employee who believes they have been subjected to sexual harassment may file a written complaint with the ICC within 3 months of the incident.
+- All complaints are treated with strict confidentiality. Retaliation against a complainant or witness is itself a serious disciplinary offence.
+- The ICC will complete its inquiry within **90 days** and submit its report to the management with recommendations.
+- Annual POSH awareness training is mandatory for all employees.
+
+### 7.4 Workplace Ethics
+
+Employees must uphold the highest ethical standards in all business dealings. This includes:
+
+- Not offering, accepting, or facilitating any form of bribe, kickback, or inappropriate gift in relation to company business.
+- Gifts from vendors or clients above a value of **₹2,000** must be declared to the HR and Finance team.
+- Accurate and honest reporting of working hours, expenses, and project progress.
+- Not misrepresenting qualifications, experience, or achievements to the company or its clients.
+
+### 7.5 Conflict of Interest
+
+Employees must avoid situations where their personal interests could conflict—or appear to conflict—with the interests of TechNova Solutions. Examples include:
+
+- Holding a financial stake in a competitor, client, or vendor without disclosure.
+- Hiring or managing a close relative within the same reporting chain without HR approval.
+- Using company resources, relationships, or information for personal business gain.
+
+Employees must disclose any potential conflict of interest to their manager and HR in writing. Failure to disclose a known conflict may result in disciplinary action up to and including termination.
+
+---
+
+## 8. Information Security and Confidentiality
+
+### 8.1 Data Protection Requirements
+
+All employees handle data that may be sensitive—including client data, personal information of colleagues, proprietary code, and business strategies. Employees must:
+
+- Access only the data and systems necessary for their role (principle of least privilege).
+- Not download or transfer client data to personal devices or unauthorised cloud storage services.
+- Report any suspected data breach or unauthorised access to the Information Security team immediately via the incident reporting channel (security@technovasolutions.in).
+
+TechNova Solutions complies with applicable data protection norms and expects all employees to uphold these standards in their day-to-day work.
+
+### 8.2 Password Management
+
+- Passwords for all company systems must be at least **12 characters** long, combining uppercase and lowercase letters, numbers, and special characters.
+- Passwords must be changed every **90 days**.
+- Employees must not share passwords with colleagues, managers, or IT support staff. IT support will never ask for a password.
+- A company-approved password manager may be used for storing credentials. Storing passwords in plain text files or browser-only storage is not permitted.
+
+### 8.3 Multi-Factor Authentication (MFA)
+
+Multi-Factor Authentication is **mandatory** for:
+
+- Access to the company email and collaboration tools (Google Workspace / Microsoft 365).
+- Access to internal HR and payroll systems.
+- Remote access to company servers or internal applications.
+- Any cloud platform access (AWS, Azure, GCP) related to company infrastructure.
+
+MFA must not be bypassed. Employees who lose their authenticator device must report it to IT immediately for credential recovery.
+
+### 8.4 VPN Usage
+
+- All remote access to internal company systems, databases, and the company intranet must be conducted through the company-issued **Virtual Private Network (VPN)**.
+- Employees must connect to the VPN before accessing any internal resources when working outside the office network.
+- The VPN client is pre-installed on all company-issued devices. Employees using personal devices for work must request VPN installation approval from IT.
+- Split tunnelling is disabled; all internet traffic from a connected device is routed through the VPN to ensure security.
+
+### 8.5 Confidential Information Handling
+
+- Confidential information includes, but is not limited to: source code, client contracts and data, business plans, financial information, employee personal data, and unreleased product details.
+- Confidential information must only be shared with individuals who have a legitimate business need to know.
+- Documents containing confidential information must not be printed unnecessarily. When printed, they must be retrieved immediately and disposed of using the secure shredding facility.
+- Employees must sign and comply with the **Non-Disclosure Agreement (NDA)** which forms part of the employment contract.
+
+### 8.6 Acceptable Use of Company Systems
+
+Company-provided devices, email, and internet access are primarily for business use. Limited personal use is permitted provided it does not:
+
+- Interfere with work performance or consume significant bandwidth.
+- Involve accessing illegal, adult, or offensive content.
+- Result in the installation of unauthorised software or browser extensions.
+- Compromise the security of company data.
+
+TechNova Solutions reserves the right to monitor company-owned devices and network traffic to ensure compliance with this policy, in accordance with applicable law and with prior notification to employees.
+
+---
+
+## 9. Grievance and Complaint Handling
+
+### 9.1 Overview
+
+TechNova Solutions is committed to providing every employee a fair and accessible mechanism to raise workplace concerns, whether related to employment conditions, interpersonal disputes, policy violations, or management actions.
+
+### 9.2 Reporting Process
+
+Employees with a grievance should follow this escalation path:
+
+1. **Direct Discussion:** Where appropriate and safe to do so, the employee is encouraged to first address the concern directly with the individual involved or with their reporting manager.
+2. **HR Complaint:** If the matter is not resolved within 5 working days, or if the grievance involves the reporting manager, the employee should submit a written complaint to HR at hrgrievance@technovasolutions.in.
+3. **Formal Escalation:** If the employee is not satisfied with the HR-level resolution, they may escalate the matter to the **Senior Management Review Committee**, comprising the CHRO and two senior leaders nominated by the CEO.
+
+### 9.3 Investigation Process
+
+- Upon receipt of a formal complaint, HR will acknowledge it within **2 working days**.
+- An investigation will be initiated within **5 working days**, led by a neutral HR business partner.
+- The investigation may involve interviews with the complainant, the respondent, and any witnesses. All parties are required to cooperate.
+- A resolution will be communicated to the complainant within **30 working days** of the complaint being filed.
+- All proceedings and findings are kept confidential to the extent possible.
+
+### 9.4 Non-Retaliation Policy
+
+TechNova Solutions strictly prohibits any form of retaliation against an employee who, in good faith, raises a grievance or participates in an investigation. Retaliatory acts—including demotion, hostile treatment, exclusion, or threats—constitute a separate disciplinary offence and will be dealt with accordingly.
+
+Employees who believe they are being retaliated against must report it to HR immediately.
+
+---
+
+## 10. Performance Management
+
+### 10.1 Philosophy
+
+TechNova Solutions follows a continuous performance management approach. Rather than reserving feedback for annual reviews, managers are expected to engage in regular one-on-one conversations with their direct reports to discuss progress, challenges, and development opportunities.
+
+### 10.2 Goal Setting
+
+- At the start of each year (and upon joining), employees and their managers collaboratively set **SMART goals** (Specific, Measurable, Achievable, Relevant, Time-bound) in the HRMS.
+- Goals are aligned with the team's and company's objectives.
+- Goals may be revised mid-year during the July review cycle if business priorities shift.
+
+*Example: A goal for a software engineer might be: "Successfully lead the migration of the payments module to microservices architecture by Q3 2025, achieving zero downtime during cutover and a 20% reduction in API response time."*
+
+### 10.3 Formal Performance Reviews
+
+- **Mid-Year Review (July):** A structured discussion between the employee and manager to assess progress against goals, identify development needs, and recalibrate objectives for H2 if required.
+- **Annual Appraisal (January):** A comprehensive review covering the full-year performance. The manager assigns a rating after discussion with the employee. Ratings are calibrated at the department level to ensure fairness and consistency.
+
+Self-assessments are a required part of both review cycles. Employees complete them on the HRMS portal at least 5 working days before the review meeting.
+
+### 10.4 Promotions
+
+- Promotions at TechNova Solutions are based on demonstrated performance, readiness for the next level of responsibility, and business need.
+- Promotion recommendations are submitted by managers during the annual appraisal cycle and are reviewed by the Level Review Committee.
+- Promotions are effective from **1 April** of each year.
+- An employee must typically have spent a minimum of **18 months** in their current role to be considered for promotion.
+
+### 10.5 Training and Development
+
+- Individual Development Plans (IDPs) are created for each employee as part of the annual appraisal process.
+- IDPs identify specific skills to be developed, learning resources to be utilised (including from the L&D budget), and target timelines.
+- Managers are accountable for ensuring their team members have opportunities to work on assignments that build the skills identified in their IDPs.
+
+---
+
+## 11. Employee Separation
+
+### 11.1 Resignation Process
+
+An employee who wishes to resign from TechNova Solutions must:
+
+1. Submit a formal written resignation to their reporting manager and HR via email.
+2. The resignation is effective from the date it is received and acknowledged by HR.
+3. The employee must serve the applicable notice period or negotiate a mutually agreed-upon shorter notice period with the manager and HR.
+
+### 11.2 Notice Period
+
+- The standard notice period for all permanent employees is **60 calendar days** (approximately 2 months).
+- Employees at the Senior Manager level and above are required to serve **90 calendar days** of notice.
+- During the notice period, the employee is expected to continue performing their duties diligently and to hand over responsibilities and documentation to a nominated colleague.
+- The company may, at its discretion, accept a shorter notice period or waive the notice period entirely by paying out the salary for the remaining notice days. Similarly, the company may ask an employee to leave before serving the full notice period and pay out the balance notice pay.
+
+### 11.3 Exit Formalities
+
+Before the last working day, the employee must complete the following:
+
+- **Knowledge Transfer:** Prepare and handover documentation, access credentials, and project notes to the designated successor or manager.
+- **No-Dues Clearance:** Obtain clearance from IT (devices and accounts), Finance (pending reimbursements or advances), and HR.
+- **Exit Interview:** Participate in a structured exit interview with the HR Business Partner to provide feedback on the employee experience.
+- **PF and Gratuity:** HR will process the employee's Provident Fund and Gratuity claims as per applicable law. Employees with 5 or more years of continuous service are eligible for gratuity.
+
+The **Full and Final (FnF) Settlement**—which includes the last month's salary, leave encashment for accrued Annual Leave (up to the carry-forward limit), and applicable gratuity—will be processed and credited within **45 days** of the last working day.
+
+### 11.4 Return of Company Assets
+
+Before or on the last working day, employees must return all company-owned assets, including:
+
+- Laptop, charger, docking station, and any peripherals.
+- Access cards, office keys, and visitor pass holders.
+- Any documents, printed materials, or storage media containing company or client information.
+- Company credit or corporate travel cards.
+
+Failure to return assets will result in recovery of the assessed value from the FnF settlement.
+
+### 11.5 Post-Separation Obligations
+
+Employees remain bound by the confidentiality and NDA clauses of their employment contract even after separation. The non-solicitation clause, prohibiting the solicitation of TechNova clients or employees for a period of **12 months** post-separation, is also applicable where agreed in the employment contract.
+
+---
+
+## 12. Disciplinary Actions
+
+### 12.1 Purpose
+
+The disciplinary process at TechNova Solutions is designed to be corrective, not punitive. The goal is to help employees understand the impact of their behaviour and make the necessary changes. However, certain behaviours are serious enough to warrant immediate, severe action.
+
+### 12.2 Types of Misconduct
+
+**Minor Misconduct** includes behaviours such as:
+
+- Repeated late arrivals or unplanned absences without adequate communication.
+- Non-compliance with company dress code or workplace etiquette policies.
+- Failure to submit timely reports or updates.
+- Personal internet use that interferes with productivity.
+
+**Major Misconduct** includes:
+
+- Insubordination or refusal to follow reasonable management instructions.
+- Dishonesty in reporting hours, expenses, or work output.
+- Violation of data security and confidentiality policies.
+- Harassment, discrimination, or bullying of any kind.
+- Misuse of company property or funds.
+
+**Gross Misconduct** includes:
+
+- Fraud, theft, embezzlement, or deliberate destruction of company property.
+- Physical assault or threats of violence against any person in the workplace.
+- Sharing confidential client or company data with unauthorised parties.
+- Sexual harassment as established through an ICC inquiry.
+- Reporting to work under the influence of alcohol or illegal substances.
+- Serious breaches of the information security policy causing material harm.
+
+### 12.3 Corrective Action Process
+
+For minor and major misconduct, TechNova Solutions follows a progressive disciplinary process:
+
+1. **Verbal Warning:** The manager discusses the behaviour with the employee and documents the conversation. A copy is filed with HR.
+2. **Written Warning:** If the behaviour persists or recurs within 6 months, a formal written warning is issued by HR. This becomes part of the employee's permanent record.
+3. **Performance Improvement Plan (PIP):** For sustained underperformance or repeated minor misconduct, a formal PIP is issued with specific, measurable targets and a defined review period (typically 30-60 days).
+4. **Final Written Warning:** If there is no improvement after the PIP, a final written warning is issued, making clear that further violations may result in termination.
+5. **Termination:** If improvement is not demonstrated after all corrective steps, the company may terminate the employment with appropriate notice and FnF settlement.
+
+### 12.4 Termination Conditions
+
+**Termination with notice** (normal corrective termination) applies when all progressive steps have been followed without the desired improvement.
+
+**Termination without notice** (summary dismissal) is reserved for cases of gross misconduct, where the continuation of employment, even through a notice period, would be inappropriate or pose a risk. In such cases, the employee is not entitled to notice pay, and disciplinary findings are recorded in the employment file.
+
+All terminations, regardless of reason, must be approved by the HR Head and the relevant Business Unit Head before issuance.
+
+---
+
+## 13. Acknowledgement
+
+By accepting employment with TechNova Solutions Pvt Ltd, or by signing the acknowledgement form provided by HR, the employee confirms the following:
+
+---
+
+**EMPLOYEE ACKNOWLEDGEMENT STATEMENT**
+
+I, _____________________________ (Employee Name), employed as _____________________________ (Designation) in the _____________________________ (Department) at TechNova Solutions Pvt Ltd, hereby acknowledge that:
+
+1. I have received, read, and understood the TechNova Solutions HR Policy Handbook (Version 2.0, effective 1 April 2025).
+
+2. I understand that this handbook constitutes an important reference document governing my employment and that I am responsible for complying with all policies contained herein.
+
+3. I understand that this handbook does not constitute a contract of employment and that TechNova Solutions reserves the right to amend, supplement, or withdraw any policy with reasonable notice to employees.
+
+4. I agree to seek clarification from the HR department if I am uncertain about any policy or its application to a specific situation.
+
+5. I understand that non-compliance with these policies may result in disciplinary action, up to and including termination of employment.
+
+**Employee Signature:** ___________________________
+**Employee ID:** ___________________________
+**Date:** ___________________________
+**Location:** ___________________________
+
+**Accepted and acknowledged on behalf of TechNova Solutions Pvt Ltd:**
+
+**HR Representative Signature:** ___________________________
+**Name:** ___________________________
+**Date:** ___________________________
+
+---
+
+*For queries related to this handbook, please contact:*
+*Human Resources Department*
+*TechNova Solutions Pvt Ltd*
+*Email: hr@technovasolutions.in*
+*HR Helpdesk: Available on the HRMS portal (Monday–Friday, 9:00 AM – 6:00 PM)*
+
+---
+
+*© 2025 TechNova Solutions Pvt Ltd. All rights reserved. This document is confidential and intended for internal use only. Unauthorised reproduction or distribution is strictly prohibited.*

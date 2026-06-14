@@ -1,0 +1,501 @@
+emp_id,first_name,last_name,full_name,email,phone,department,designation,manager_id,manager_name,joining_date,leave_balance,salary_band,work_location,employment_status
+EMP001,Nitin,Gupta,Nitin Gupta,nitin.gupta@company.com,9433218196,HR,Intern,EMP141,Ananya Chakraborty,2020-08-10,16,L1,Hyderabad,Active
+EMP002,Suresh,Ansari,Suresh Ansari,suresh.ansari@company.com,9386379402,IT Support,Senior Engineer,EMP108,Ishan Bajaj,2020-05-31,30,L3,Chennai,Active
+EMP003,Milind,Iyer,Milind Iyer,milind.iyer@company.com,9161559407,Engineering,Team Lead,EMP037,Sana Mehra,2021-04-15,26,L3,Hyderabad,On Leave
+EMP004,Bharat,Siddiqui,Bharat Siddiqui,bharat.siddiqui@company.com,9310341316,Sales,Manager,EMP159,Nikhil Jackson,2019-10-29,11,L4,Delhi,Active
+EMP005,Vishal,Dutta,Vishal Dutta,vishal.dutta@company.com,9419283276,Sales,Senior Manager,EMP134,Kunal Martinez,2021-08-21,26,L5,Bengaluru,Resigned
+EMP006,Manish,Trivedi,Manish Trivedi,manish.trivedi@company.com,9056413953,Customer Success,Team Lead,EMP028,Stephanie Chopra,2019-08-09,8,L3,Delhi,Active
+EMP007,Smita,Pandey,Smita Pandey,smita.pandey@company.com,9884969653,Finance,Senior Manager,EMP306,Yash Kapoor,2018-07-12,27,L5,Pune,Active
+EMP008,Nitin,Das,Nitin Das,nitin.das@company.com,9269166978,Sales,Senior Manager,EMP170,Sunita Hussain,2019-04-15,21,L5,Hyderabad,Resigned
+EMP009,Aisha,Venkatesh,Aisha Venkatesh,aisha.venkatesh@company.com,9451462704,Finance,Senior Manager,EMP121,Archana Chopra,2021-05-07,26,L5,Hyderabad,Resigned
+EMP010,Angela,Ali,Angela Ali,angela.ali@company.com,9325288095,Customer Success,Intern,EMP345,Kabir Menon,2021-06-13,7,L1,Hyderabad,Active
+EMP011,Manish,Mishra,Manish Mishra,manish.mishra@company.com,9911718227,Finance,Engineer,EMP326,Kamala Mirza,2022-09-30,30,L2,Mumbai,On Leave
+EMP012,Saurabh,Allen,Saurabh Allen,saurabh.allen@company.com,9346578713,Marketing,Associate,EMP090,Rekha Mehra,2024-08-06,17,L1,Chennai,Active
+EMP013,Girish,Ahmed,Girish Ahmed,girish.ahmed@company.com,9301031051,Marketing,Engineer,EMP366,Mamta Trivedi,2020-05-27,17,L2,Delhi,Active
+EMP014,Rekha,Krishnan,Rekha Krishnan,rekha.krishnan@company.com,9997376311,IT Support,Senior Engineer,EMP028,Stephanie Chopra,2023-03-28,27,L3,Pune,Active
+EMP015,Sneha,Sequeira,Sneha Sequeira,sneha.sequeira@company.com,9106513338,Customer Success,Executive,EMP331,Vidya Agarwal,2021-02-14,14,L2,Pune,Active
+EMP016,Saroj,Rao,Saroj Rao,saroj.rao@company.com,9781080132,IT Support,Manager,EMP207,Sneha Chakraborty,2022-07-01,28,L4,Pune,Active
+EMP017,Divya,Banerjee,Divya Banerjee,divya.banerjee@company.com,9606474687,Finance,Analyst,EMP443,Shaan Murthy,2018-08-28,18,L2,Chennai,Active
+EMP018,Shaan,Mehta,Shaan Mehta,shaan.mehta@company.com,9500978820,Engineering,Executive,EMP355,Hina Malik,2018-10-06,21,L2,Hyderabad,On Leave
+EMP019,Tejas,Johnson,Tejas Johnson,tejas.johnson@company.com,9193990916,Operations,Engineer,EMP340,Sadia Ghosh,2021-07-10,7,L2,Bengaluru,Resigned
+EMP020,Kamala,Smith,Kamala Smith,kamala.smith@company.com,9247510799,Engineering,Associate,EMP366,Mamta Trivedi,2023-09-04,8,L1,Mumbai,Active
+EMP021,Rekha,Chopra,Rekha Chopra,rekha.chopra@company.com,9135427849,HR,Senior Manager,EMP092,Michael Thompson,2019-03-01,30,L5,Chennai,Resigned
+EMP022,Varun,Dubey,Varun Dubey,varun.dubey@company.com,9118244935,Marketing,Engineer,EMP107,Vikram Fernandez,2020-10-25,28,L2,Mumbai,Active
+EMP023,Sneha,Pillai,Sneha Pillai,sneha.pillai@company.com,9640052427,IT Support,Senior Manager,EMP092,Michael Thompson,2018-11-05,30,L5,Hyderabad,Active
+EMP024,Rohit,Allen,Rohit Allen,rohit.allen@company.com,9059826204,Operations,Intern,EMP266,Vikram Iyer,2025-08-25,7,L1,Chennai,Active
+EMP025,Vivek,Ahuja,Vivek Ahuja,vivek.ahuja@company.com,9869232260,Finance,Senior Engineer,EMP072,Eric Srivastava,2020-10-13,8,L3,Pune,Resigned
+EMP026,Sachin,Dias,Sachin Dias,sachin.dias@company.com,9160733754,Marketing,Analyst,EMP155,Vinay Shah,2020-03-02,12,L2,Hyderabad,Resigned
+EMP027,Kaushik,Saxena,Kaushik Saxena,kaushik.saxena@company.com,9145868501,Sales,Executive,EMP207,Sneha Chakraborty,2018-06-06,3,L2,Mumbai,Active
+EMP028,Stephanie,Chopra,Stephanie Chopra,stephanie.chopra@company.com,9569816934,HR,Team Lead,EMP139,Sarah Jackson,2024-01-15,21,L3,Hyderabad,On Leave
+EMP029,Harsh,Bajaj,Harsh Bajaj,harsh.bajaj@company.com,9615951484,IT Support,Senior Engineer,EMP127,Kevin Agarwal,2021-04-26,17,L3,Pune,Resigned
+EMP030,Gaurav,Sen,Gaurav Sen,gaurav.sen@company.com,9662994680,Sales,Engineer,EMP372,Aarti Nambiar,2024-07-03,19,L2,Bengaluru,Active
+EMP031,Rakesh,Wilson,Rakesh Wilson,rakesh.wilson@company.com,9773872148,Operations,Associate,EMP193,Jason Arora,2021-06-25,7,L1,Bengaluru,Resigned
+EMP032,Harsh,Bose,Harsh Bose,harsh.bose@company.com,9003791769,Marketing,Team Lead,EMP451,Umesh Tandon,2020-09-26,4,L3,Pune,Active
+EMP033,Priya,Venkatesh,Priya Venkatesh,priya.venkatesh@company.com,9163287083,Engineering,Manager,EMP439,Lata Shah,2025-06-27,16,L4,Bengaluru,Active
+EMP034,Hina,Hussain,Hina Hussain,hina.hussain@company.com,9579868727,Customer Success,Engineer,EMP463,Bhavna Mukherjee,2021-02-09,24,L2,Bengaluru,Resigned
+EMP035,Fatima,Thomas,Fatima Thomas,fatima.thomas@company.com,9347143455,Engineering,Executive,EMP161,Samantha Rodrigues,2022-04-18,22,L2,Bengaluru,Active
+EMP036,Pallavi,Pillai,Pallavi Pillai,pallavi.pillai@company.com,9316658760,Marketing,Team Lead,EMP464,Ali Balakrishnan,2025-10-19,0,L3,Pune,On Leave
+EMP037,Sana,Mehra,Sana Mehra,sana.mehra@company.com,9705466889,Marketing,Manager,EMP005,Vishal Dutta,2022-11-21,15,L4,Bengaluru,Active
+EMP038,Kavya,Sethi,Kavya Sethi,kavya.sethi@company.com,9562729806,HR,Associate,EMP394,Aparna Ali,2019-07-10,27,L1,Delhi,Active
+EMP039,Andrew,Mukherjee,Andrew Mukherjee,andrew.mukherjee@company.com,9046537556,Sales,Team Lead,EMP455,Tanuja Brown,2023-04-11,0,L3,Chennai,Active
+EMP040,Shaan,Shah,Shaan Shah,shaan.shah@company.com,9531003309,Finance,Analyst,EMP135,Tanuja Pillai,2025-07-05,3,L2,Bengaluru,Active
+EMP041,Omar,Chatterjee,Omar Chatterjee,omar.chatterjee@company.com,9745299124,Engineering,Intern,EMP312,Aisha Siddiqui,2025-08-06,29,L1,Chennai,On Leave
+EMP042,Prasad,Smith,Prasad Smith,prasad.smith@company.com,9319314919,HR,Senior Engineer,EMP063,Christopher Khanna,2025-06-02,11,L3,Mumbai,Active
+EMP043,Ritu,White,Ritu White,ritu.white@company.com,9506716572,IT Support,Executive,EMP184,Aryan Sethi,2025-04-18,8,L2,Delhi,On Leave
+EMP044,Aisha,Gopalakrishnan,Aisha Gopalakrishnan,aisha.gopalakrishnan@company.com,9776945314,Customer Success,Analyst,EMP367,Ananya Bhatt,2024-11-04,21,L2,Pune,On Leave
+EMP045,Tara,Arora,Tara Arora,tara.arora@company.com,9075273545,Sales,Engineer,EMP075,Aisha Chandra,2023-10-18,30,L2,Mumbai,Active
+EMP046,Vinay,Nair,Vinay Nair,vinay.nair@company.com,9367837770,Engineering,Engineer,EMP255,Meera Mehra,2025-10-04,7,L2,Bengaluru,Active
+EMP047,Parth,Rodrigues,Parth Rodrigues,parth.rodrigues@company.com,9957885685,Operations,Manager,EMP007,Smita Pandey,2020-10-26,7,L4,Chennai,Active
+EMP048,Pranav,Krishnan,Pranav Krishnan,pranav.krishnan@company.com,9351823374,Sales,Associate,EMP207,Sneha Chakraborty,2020-07-20,11,L1,Bengaluru,Active
+EMP049,Jasmine,Jain,Jasmine Jain,jasmine.jain@company.com,9082400842,Customer Success,Associate,EMP093,Madhuri Mishra,2021-03-10,15,L1,Hyderabad,On Leave
+EMP050,Brian,Miller,Brian Miller,brian.miller@company.com,9520471167,Engineering,Intern,EMP297,Rohit Mukherjee,2024-04-24,30,L1,Bengaluru,Active
+EMP051,Rina,Nair,Rina Nair,rina.nair@company.com,9318699938,IT Support,Manager,EMP218,Bhavna Pereira,2024-08-07,13,L4,Pune,Active
+EMP052,Parth,Sheikh,Parth Sheikh,parth.sheikh@company.com,9909133412,Marketing,Executive,EMP466,Varun Jackson,2019-10-04,0,L2,Mumbai,Active
+EMP053,David,Davis,David Davis,david.davis@company.com,9974034471,Marketing,Engineer,EMP086,Sonal Arora,2025-06-01,25,L2,Delhi,On Leave
+EMP054,Harsh,Jones,Harsh Jones,harsh.jones@company.com,9183242102,Sales,Engineer,EMP251,Manish Sharma,2023-04-04,22,L2,Pune,Active
+EMP055,Rina,Dias,Rina Dias,rina.dias@company.com,9648877190,IT Support,Senior Engineer,EMP109,Ritu Chopra,2018-04-16,2,L3,Mumbai,Active
+EMP056,Girish,Sequeira,Girish Sequeira,girish.sequeira@company.com,9990490278,Customer Success,Engineer,EMP016,Saroj Rao,2022-11-21,20,L2,Bengaluru,On Leave
+EMP057,Katherine,Pillai,Katherine Pillai,katherine.pillai@company.com,9756551256,Customer Success,Engineer,EMP064,Meera Murthy,2024-03-03,1,L2,Delhi,Active
+EMP058,Christopher,Pillai,Christopher Pillai,christopher.pillai@company.com,9545168087,IT Support,Intern,EMP340,Sadia Ghosh,2022-01-21,19,L1,Bengaluru,On Leave
+EMP059,Christine,Fernandez,Christine Fernandez,christine.fernandez@company.com,9703482477,Engineering,Intern,EMP500,Daniel Agarwal,2020-09-07,22,L1,Delhi,On Leave
+EMP060,Sachin,Kapoor,Sachin Kapoor,sachin.kapoor@company.com,9808613171,Finance,Manager,EMP301,Vikram Roy,2023-09-16,22,L4,Delhi,Active
+EMP061,Vidya,Brown,Vidya Brown,vidya.brown@company.com,9773782639,Finance,Associate,EMP336,Bharat Shah,2021-10-24,29,L1,Chennai,Active
+EMP062,Angela,Srivastava,Angela Srivastava,angela.srivastava@company.com,9044997278,Customer Success,Senior Engineer,EMP480,Rina White,2024-02-04,12,L3,Chennai,On Leave
+EMP063,Christopher,Khanna,Christopher Khanna,christopher.khanna@company.com,9339636057,IT Support,Team Lead,EMP193,Jason Arora,2019-09-16,15,L3,Delhi,Resigned
+EMP064,Meera,Murthy,Meera Murthy,meera.murthy@company.com,9895171870,Finance,Team Lead,EMP469,William Krishnan,2018-11-03,15,L3,Delhi,Active
+EMP065,Kamala,Arora,Kamala Arora,kamala.arora@company.com,9961586578,HR,Associate,EMP500,Daniel Agarwal,2025-09-04,29,L1,Bengaluru,Resigned
+EMP066,Tanuja,Trivedi,Tanuja Trivedi,tanuja.trivedi@company.com,9161172400,Operations,Intern,EMP004,Bharat Siddiqui,2022-03-16,13,L1,Chennai,Active
+EMP067,Madhuri,Pandey,Madhuri Pandey,madhuri.pandey@company.com,9869222196,Marketing,Manager,EMP199,Aryan Sen,2020-08-09,14,L4,Mumbai,Active
+EMP068,Nalini,Martinez,Nalini Martinez,nalini.martinez@company.com,9407482175,Sales,Team Lead,EMP032,Harsh Bose,2023-02-15,27,L3,Delhi,Active
+EMP069,Rina,Roy,Rina Roy,rina.roy@company.com,9671369594,Sales,Intern,EMP494,Amanda Hussain,2021-01-29,0,L1,Delhi,Active
+EMP070,Omar,Mascarenhas,Omar Mascarenhas,omar.mascarenhas@company.com,9097439533,Sales,Executive,EMP479,Michael Bhatt,2025-01-14,20,L2,Delhi,Active
+EMP071,Arjun,Kapoor,Arjun Kapoor,arjun.kapoor@company.com,9709521456,Finance,Analyst,EMP334,James Rao,2022-02-07,16,L2,Bengaluru,On Leave
+EMP072,Eric,Srivastava,Eric Srivastava,eric.srivastava@company.com,9247451712,Marketing,Team Lead,EMP255,Meera Mehra,2019-01-05,25,L3,Mumbai,Active
+EMP073,Sarah,Verma,Sarah Verma,sarah.verma@company.com,9481754965,Engineering,Analyst,EMP451,Umesh Tandon,2024-12-12,28,L2,Pune,Active
+EMP074,Hina,Khanna,Hina Khanna,hina.khanna@company.com,9931746120,HR,Engineer,EMP097,Saroj Pillai,2019-02-03,7,L2,Pune,Active
+EMP075,Aisha,Chandra,Aisha Chandra,aisha.chandra@company.com,9675869261,Customer Success,Team Lead,EMP163,Emily Martinez,2025-09-28,11,L3,Chennai,Active
+EMP076,Leela,Miller,Leela Miller,leela.miller@company.com,9735158506,Sales,Analyst,EMP033,Priya Venkatesh,2019-01-11,21,L2,Hyderabad,Active
+EMP077,Saurabh,Pereira,Saurabh Pereira,saurabh.pereira@company.com,9900532931,Marketing,Analyst,EMP487,Katherine Young,2019-08-28,25,L2,Bengaluru,Active
+EMP078,Rahul,Saxena,Rahul Saxena,rahul.saxena@company.com,9228421020,Operations,Analyst,EMP207,Sneha Chakraborty,2018-03-06,5,L2,Mumbai,Active
+EMP079,Kamala,Shah,Kamala Shah,kamala.shah@company.com,9268117758,Engineering,Manager,EMP192,Radhika Joshi,2024-11-24,1,L4,Mumbai,Active
+EMP080,Fatima,Jain,Fatima Jain,fatima.jain@company.com,9700766177,Engineering,Associate,EMP037,Sana Mehra,2019-08-31,2,L1,Chennai,On Leave
+EMP081,Gaurav,Saxena,Gaurav Saxena,gaurav.saxena@company.com,9998569847,IT Support,Associate,EMP060,Sachin Kapoor,2025-05-05,20,L1,Delhi,Active
+EMP082,Sadia,Krishnan,Sadia Krishnan,sadia.krishnan@company.com,9367365766,Engineering,Senior Engineer,EMP437,Sunita Singh,2025-06-17,8,L3,Pune,Active
+EMP083,Malini,Das,Malini Das,malini.das@company.com,9711116152,HR,Senior Manager,EMP368,Megan Pandey,2025-07-07,3,L5,Mumbai,Active
+EMP084,Jessica,Ahuja,Jessica Ahuja,jessica.ahuja@company.com,9604945198,Marketing,Executive,EMP286,Arjun Sharma,2020-07-07,27,L2,Delhi,Active
+EMP085,Lakshmi,Chopra,Lakshmi Chopra,lakshmi.chopra@company.com,9851493689,HR,Engineer,EMP072,Eric Srivastava,2021-01-24,22,L2,Hyderabad,Active
+EMP086,Sonal,Arora,Sonal Arora,sonal.arora@company.com,9502296120,Engineering,Senior Manager,EMP266,Vikram Iyer,2022-09-16,14,L5,Bengaluru,Active
+EMP087,Payal,Ghosh,Payal Ghosh,payal.ghosh@company.com,9545991022,HR,Associate,EMP187,Aryan Reddy,2025-06-04,13,L1,Chennai,Active
+EMP088,Jason,Ali,Jason Ali,jason.ali@company.com,9764381561,Sales,Manager,EMP121,Archana Chopra,2021-06-17,1,L4,Mumbai,Resigned
+EMP089,Dinesh,Smith,Dinesh Smith,dinesh.smith@company.com,9900343244,Operations,Associate,EMP180,Tarun Rajan,2022-10-30,5,L1,Hyderabad,Active
+EMP090,Rekha,Mehra,Rekha Mehra,rekha.mehra@company.com,9838851606,HR,Manager,EMP480,Rina White,2024-06-16,13,L4,Hyderabad,Active
+EMP091,Hassan,Johnson,Hassan Johnson,hassan.johnson@company.com,9641605297,Operations,Associate,EMP302,Rekha Ali,2020-09-23,13,L1,Pune,Active
+EMP092,Michael,Thompson,Michael Thompson,michael.thompson@company.com,9164535218,Engineering,Senior Manager,EMP023,Sneha Pillai,2021-12-02,11,L5,Mumbai,Active
+EMP093,Madhuri,Mishra,Madhuri Mishra,madhuri.mishra@company.com,9124329212,Customer Success,Manager,EMP007,Smita Pandey,2023-01-13,21,L4,Mumbai,On Leave
+EMP094,Omar,Pereira,Omar Pereira,omar.pereira@company.com,9955271774,Sales,Intern,EMP159,Nikhil Jackson,2018-10-31,9,L1,Chennai,On Leave
+EMP095,Andrew,Davis,Andrew Davis,andrew.davis@company.com,9005411998,IT Support,Manager,EMP110,Varun Joshi,2018-06-18,14,L4,Mumbai,On Leave
+EMP096,Hassan,Gomes,Hassan Gomes,hassan.gomes@company.com,9359782071,Operations,Associate,EMP295,Fatima D'Souza,2019-12-08,1,L1,Mumbai,Resigned
+EMP097,Saroj,Pillai,Saroj Pillai,saroj.pillai@company.com,9778892554,IT Support,Team Lead,EMP308,Umesh Johnson,2024-09-14,1,L3,Chennai,Resigned
+EMP098,Nandita,Joshi,Nandita Joshi,nandita.joshi@company.com,9518644925,Engineering,Executive,EMP207,Sneha Chakraborty,2025-05-11,22,L2,Chennai,Active
+EMP099,James,Murthy,James Murthy,james.murthy@company.com,9914865281,IT Support,Senior Manager,EMP439,Lata Shah,2022-01-25,9,L5,Chennai,Active
+EMP100,Mohit,Chatterjee,Mohit Chatterjee,mohit.chatterjee@company.com,9573322141,HR,Senior Engineer,EMP494,Amanda Hussain,2024-09-12,12,L3,Mumbai,Active
+EMP101,Pallavi,Ghosh,Pallavi Ghosh,pallavi.ghosh@company.com,9292706537,Sales,Manager,EMP099,James Murthy,2020-09-06,9,L4,Bengaluru,On Leave
+EMP102,Kevin,Sen,Kevin Sen,kevin.sen@company.com,9597746886,Finance,Analyst,EMP092,Michael Thompson,2020-10-21,1,L2,Mumbai,Active
+EMP103,Samantha,Tandon,Samantha Tandon,samantha.tandon@company.com,9818141247,Finance,Team Lead,EMP228,Rajesh Goel,2023-01-22,28,L3,Hyderabad,Active
+EMP104,Aparna,Gupta,Aparna Gupta,aparna.gupta@company.com,9606853615,Marketing,Intern,EMP359,Pooja Tiwari,2025-04-16,10,L1,Chennai,Active
+EMP105,Madhuri,Chandra,Madhuri Chandra,madhuri.chandra@company.com,9047277901,HR,Engineer,EMP324,Girish Malhotra,2024-02-26,30,L2,Bengaluru,Active
+EMP106,Riya,Jones,Riya Jones,riya.jones@company.com,9143410369,Customer Success,Associate,EMP233,Sunil Sheikh,2024-09-10,17,L1,Hyderabad,Active
+EMP107,Vikram,Fernandez,Vikram Fernandez,vikram.fernandez@company.com,9893246095,Marketing,Team Lead,EMP471,Hema Das,2025-06-30,2,L3,Bengaluru,Resigned
+EMP108,Ishan,Bajaj,Ishan Bajaj,ishan.bajaj@company.com,9188888067,HR,Team Lead,EMP097,Saroj Pillai,2018-03-08,11,L3,Chennai,Active
+EMP109,Ritu,Chopra,Ritu Chopra,ritu.chopra@company.com,9319520585,Finance,Manager,EMP207,Sneha Chakraborty,2025-01-31,5,L4,Delhi,Active
+EMP110,Varun,Joshi,Varun Joshi,varun.joshi@company.com,9704303054,IT Support,Senior Manager,EMP442,James Chakraborty,2018-05-30,24,L5,Pune,Active
+EMP111,Vinay,Agarwal,Vinay Agarwal,vinay.agarwal@company.com,9505415667,IT Support,Senior Engineer,EMP075,Aisha Chandra,2025-10-05,15,L3,Bengaluru,Active
+EMP112,Ramesh,Martin,Ramesh Martin,ramesh.martin@company.com,9416169284,Operations,Associate,EMP275,Hina Bhatt,2025-05-31,9,L1,Hyderabad,Active
+EMP113,Parth,Davis,Parth Davis,parth.davis@company.com,9962757059,IT Support,Engineer,EMP385,Ashok Pillai,2018-11-04,21,L2,Delhi,Active
+EMP114,Emily,Bajaj,Emily Bajaj,emily.bajaj@company.com,9820297021,Marketing,Senior Engineer,EMP148,Ashley Tandon,2024-05-12,1,L3,Chennai,Active
+EMP115,Pallavi,Sequeira,Pallavi Sequeira,pallavi.sequeira@company.com,9755719285,IT Support,Senior Engineer,EMP359,Pooja Tiwari,2020-10-19,30,L3,Delhi,Active
+EMP116,Usha,Gupta,Usha Gupta,usha.gupta@company.com,9278681447,Marketing,Engineer,EMP332,Vinay Khanna,2020-03-30,3,L2,Delhi,Active
+EMP117,Varun,Rao,Varun Rao,varun.rao@company.com,9727155188,Sales,Engineer,EMP295,Fatima D'Souza,2025-12-16,29,L2,Bengaluru,Resigned
+EMP118,Kunal,Bajaj,Kunal Bajaj,kunal.bajaj@company.com,9831323705,Operations,Manager,EMP301,Vikram Roy,2024-11-11,28,L4,Mumbai,Active
+EMP119,Ravi,Joshi,Ravi Joshi,ravi.joshi@company.com,9467866912,Operations,Associate,EMP192,Radhika Joshi,2025-08-17,16,L1,Pune,Active
+EMP120,Santosh,Murthy,Santosh Murthy,santosh.murthy@company.com,9892268018,Finance,Engineer,EMP448,Sheetal Anderson,2021-08-14,29,L2,Bengaluru,Active
+EMP121,Archana,Chopra,Archana Chopra,archana.chopra@company.com,9841438424,Engineering,Senior Manager,EMP368,Megan Pandey,2024-08-21,30,L5,Delhi,Active
+EMP122,Ali,Das,Ali Das,ali.das@company.com,9299590010,Sales,Analyst,EMP320,Daniel Mehra,2024-12-06,20,L2,Mumbai,Active
+EMP123,Kavya,Jackson,Kavya Jackson,kavya.jackson@company.com,9844736471,HR,Executive,EMP072,Eric Srivastava,2023-06-07,14,L2,Pune,Active
+EMP124,Piyush,Arora,Piyush Arora,piyush.arora@company.com,9925556258,Engineering,Senior Engineer,EMP320,Daniel Mehra,2019-05-17,8,L3,Bengaluru,Active
+EMP125,Elizabeth,Pandey,Elizabeth Pandey,elizabeth.pandey@company.com,9210469632,Operations,Senior Engineer,EMP275,Hina Bhatt,2023-08-03,16,L3,Bengaluru,Active
+EMP126,Lauren,Jackson,Lauren Jackson,lauren.jackson@company.com,9470168733,Operations,Intern,EMP473,Rina Pillai,2023-07-21,19,L1,Hyderabad,Active
+EMP127,Kevin,Agarwal,Kevin Agarwal,kevin.agarwal@company.com,9801624565,HR,Team Lead,EMP141,Ananya Chakraborty,2024-04-20,6,L3,Hyderabad,On Leave
+EMP128,Bharat,Khan,Bharat Khan,bharat.khan@company.com,9416878499,Engineering,Executive,EMP326,Kamala Mirza,2022-03-09,25,L2,Hyderabad,Active
+EMP129,Milind,Ansari,Milind Ansari,milind.ansari@company.com,9523986800,HR,Executive,EMP481,Kabir Mukherjee,2023-04-25,16,L2,Delhi,Active
+EMP130,Christopher,Das,Christopher Das,christopher.das@company.com,9982595269,Sales,Senior Engineer,EMP323,Jason Gopalakrishnan,2023-12-21,15,L3,Mumbai,On Leave
+EMP131,Omar,Jain,Omar Jain,omar.jain@company.com,9705516940,Customer Success,Engineer,EMP072,Eric Srivastava,2024-06-23,7,L2,Delhi,On Leave
+EMP132,Sneha,Qureshi,Sneha Qureshi,sneha.qureshi@company.com,9728962309,Engineering,Analyst,EMP028,Stephanie Chopra,2021-07-08,13,L2,Hyderabad,Active
+EMP133,Rohit,Williams,Rohit Williams,rohit.williams@company.com,9368970283,Operations,Manager,EMP308,Umesh Johnson,2021-07-09,30,L4,Mumbai,Active
+EMP134,Kunal,Martinez,Kunal Martinez,kunal.martinez@company.com,9858549733,Sales,Senior Manager,EMP207,Sneha Chakraborty,2021-05-04,24,L5,Chennai,Active
+EMP135,Tanuja,Pillai,Tanuja Pillai,tanuja.pillai@company.com,9375758441,IT Support,Team Lead,EMP345,Kabir Menon,2021-04-04,1,L3,Chennai,Active
+EMP136,Tanuja,Nambiar,Tanuja Nambiar,tanuja.nambiar@company.com,9157473384,Sales,Executive,EMP171,Smita Srivastava,2024-07-31,7,L2,Hyderabad,On Leave
+EMP137,Nikhil,Shah,Nikhil Shah,nikhil.shah@company.com,9833016571,Finance,Intern,EMP488,Rajesh Rajan,2022-07-25,20,L1,Mumbai,Active
+EMP138,Rachel,Taylor,Rachel Taylor,rachel.taylor@company.com,9345401938,HR,Executive,EMP109,Ritu Chopra,2018-05-29,26,L2,Pune,Active
+EMP139,Sarah,Jackson,Sarah Jackson,sarah.jackson@company.com,9240049915,Sales,Manager,EMP306,Yash Kapoor,2023-11-18,15,L4,Delhi,On Leave
+EMP140,Varun,White,Varun White,varun.white@company.com,9743152742,HR,Senior Engineer,EMP394,Aparna Ali,2025-07-25,24,L3,Chennai,On Leave
+EMP141,Ananya,Chakraborty,Ananya Chakraborty,ananya.chakraborty@company.com,9966851612,Finance,Manager,EMP385,Ashok Pillai,2018-01-28,8,L4,Chennai,Active
+EMP142,Umesh,Mishra,Umesh Mishra,umesh.mishra@company.com,9745499045,Marketing,Intern,EMP488,Rajesh Rajan,2023-03-22,9,L1,Delhi,Active
+EMP143,Sachin,Johnson,Sachin Johnson,sachin.johnson@company.com,9841459332,Customer Success,Executive,EMP394,Aparna Ali,2024-10-17,11,L2,Pune,Resigned
+EMP144,Robert,Dias,Robert Dias,robert.dias@company.com,9878339187,Operations,Associate,EMP067,Madhuri Pandey,2018-09-10,26,L1,Mumbai,Active
+EMP145,Tanvir,White,Tanvir White,tanvir.white@company.com,9398225871,Marketing,Manager,EMP174,Katherine Siddiqui,2022-12-30,25,L4,Hyderabad,On Leave
+EMP146,Manish,Martinez,Manish Martinez,manish.martinez@company.com,9286790874,HR,Team Lead,EMP347,Vishal Malhotra,2020-06-11,18,L3,Chennai,Active
+EMP147,Anil,Patel,Anil Patel,anil.patel@company.com,9651801704,IT Support,Executive,EMP326,Kamala Mirza,2025-03-30,30,L2,Bengaluru,Resigned
+EMP148,Ashley,Tandon,Ashley Tandon,ashley.tandon@company.com,9676618251,Finance,Senior Manager,EMP023,Sneha Pillai,2019-06-06,23,L5,Pune,On Leave
+EMP149,Archana,Sharma,Archana Sharma,archana.sharma@company.com,9047868633,Customer Success,Senior Engineer,EMP352,Amit D'Souza,2020-02-12,29,L3,Bengaluru,Active
+EMP150,Nitin,Kumar,Nitin Kumar,nitin.kumar@company.com,9690331190,Customer Success,Intern,EMP218,Bhavna Pereira,2018-07-01,12,L1,Bengaluru,Resigned
+EMP151,Matthew,Trivedi,Matthew Trivedi,matthew.trivedi@company.com,9830284395,Operations,Analyst,EMP108,Ishan Bajaj,2025-05-28,16,L2,Chennai,Active
+EMP152,Dinesh,Williams,Dinesh Williams,dinesh.williams@company.com,9440892687,HR,Senior Engineer,EMP095,Andrew Davis,2022-04-11,25,L3,Delhi,Resigned
+EMP153,Ishan,Malhotra,Ishan Malhotra,ishan.malhotra@company.com,9662462873,Marketing,Engineer,EMP218,Bhavna Pereira,2023-03-12,29,L2,Delhi,Active
+EMP154,Manish,Ansari,Manish Ansari,manish.ansari@company.com,9668826343,Operations,Associate,EMP184,Aryan Sethi,2019-01-14,17,L1,Pune,Active
+EMP155,Vinay,Shah,Vinay Shah,vinay.shah@company.com,9469901398,Marketing,Manager,EMP315,Girish Roy,2021-05-26,30,L4,Bengaluru,Active
+EMP156,Neha,Chatterjee,Neha Chatterjee,neha.chatterjee@company.com,9317393638,Operations,Engineer,EMP323,Jason Gopalakrishnan,2023-12-26,20,L2,Pune,Active
+EMP157,Radhika,Kapoor,Radhika Kapoor,radhika.kapoor@company.com,9458771753,Operations,Senior Engineer,EMP213,Pranav Pillai,2024-04-23,27,L3,Pune,Active
+EMP158,Dinesh,Rajan,Dinesh Rajan,dinesh.rajan@company.com,9204899642,Marketing,Senior Engineer,EMP451,Umesh Tandon,2024-05-22,26,L3,Bengaluru,Active
+EMP159,Nikhil,Jackson,Nikhil Jackson,nikhil.jackson@company.com,9854777252,Finance,Senior Manager,EMP009,Aisha Venkatesh,2024-01-30,20,L5,Pune,Active
+EMP160,Divya,Thompson,Divya Thompson,divya.thompson@company.com,9010062312,HR,Analyst,EMP439,Lata Shah,2022-03-09,1,L2,Mumbai,Active
+EMP161,Samantha,Rodrigues,Samantha Rodrigues,samantha.rodrigues@company.com,9700886008,Sales,Senior Manager,EMP021,Rekha Chopra,2023-08-20,26,L5,Chennai,Active
+EMP162,Daniel,Chakraborty,Daniel Chakraborty,daniel.chakraborty@company.com,9118233984,Operations,Engineer,EMP032,Harsh Bose,2022-03-09,30,L2,Pune,Active
+EMP163,Emily,Martinez,Emily Martinez,emily.martinez@company.com,9933410166,IT Support,Senior Manager,EMP315,Girish Roy,2025-02-21,0,L5,Pune,Active
+EMP164,Vandana,Nair,Vandana Nair,vandana.nair@company.com,9765918033,Customer Success,Engineer,EMP086,Sonal Arora,2025-09-04,29,L2,Hyderabad,Active
+EMP165,Seema,Allen,Seema Allen,seema.allen@company.com,9902503926,Engineering,Engineer,EMP372,Aarti Nambiar,2020-09-11,18,L2,Bengaluru,On Leave
+EMP166,Anita,Sequeira,Anita Sequeira,anita.sequeira@company.com,9856218501,IT Support,Analyst,EMP320,Daniel Mehra,2024-10-14,24,L2,Hyderabad,Active
+EMP167,Sarah,Gopalakrishnan,Sarah Gopalakrishnan,sarah.gopalakrishnan@company.com,9504773586,IT Support,Executive,EMP309,Aryan Martin,2025-05-30,12,L2,Delhi,On Leave
+EMP168,Shweta,Sundaram,Shweta Sundaram,shweta.sundaram@company.com,9943114262,IT Support,Senior Engineer,EMP075,Aisha Chandra,2019-01-10,0,L3,Chennai,Active
+EMP169,Parth,Miller,Parth Miller,parth.miller@company.com,9541212678,IT Support,Associate,EMP341,Vikram Mirza,2021-12-20,17,L1,Hyderabad,Active
+EMP170,Sunita,Hussain,Sunita Hussain,sunita.hussain@company.com,9956046618,Marketing,Senior Manager,EMP442,James Chakraborty,2022-04-09,5,L5,Bengaluru,Resigned
+EMP171,Smita,Srivastava,Smita Srivastava,smita.srivastava@company.com,9447212646,Sales,Manager,EMP463,Bhavna Mukherjee,2020-10-27,30,L4,Hyderabad,Active
+EMP172,Saroj,Krishnan,Saroj Krishnan,saroj.krishnan@company.com,9799371240,IT Support,Senior Engineer,EMP451,Umesh Tandon,2021-09-11,14,L3,Mumbai,Active
+EMP173,Nandita,Garcia,Nandita Garcia,nandita.garcia@company.com,9924593752,IT Support,Senior Engineer,EMP185,Preeti Malhotra,2025-10-17,20,L3,Chennai,Resigned
+EMP174,Katherine,Siddiqui,Katherine Siddiqui,katherine.siddiqui@company.com,9356465193,Finance,Senior Manager,EMP218,Bhavna Pereira,2023-03-06,30,L5,Hyderabad,Resigned
+EMP175,Chitra,Miller,Chitra Miller,chitra.miller@company.com,9416724342,IT Support,Team Lead,EMP188,Saroj Jain,2024-09-15,15,L3,Hyderabad,Active
+EMP176,Mariam,Johnson,Mariam Johnson,mariam.johnson@company.com,9886805891,Engineering,Analyst,EMP463,Bhavna Mukherjee,2021-12-25,5,L2,Delhi,Resigned
+EMP177,Pooja,Sheikh,Pooja Sheikh,pooja.sheikh@company.com,9656101438,Marketing,Manager,EMP023,Sneha Pillai,2023-03-12,24,L4,Chennai,Active
+EMP178,Eric,Das,Eric Das,eric.das@company.com,9507146112,Operations,Engineer,EMP368,Megan Pandey,2020-04-27,16,L2,Chennai,Active
+EMP179,Samantha,Chopra,Samantha Chopra,samantha.chopra@company.com,9717751401,HR,Senior Engineer,EMP007,Smita Pandey,2025-08-05,25,L3,Delhi,Active
+EMP180,Tarun,Rajan,Tarun Rajan,tarun.rajan@company.com,9382825867,Marketing,Team Lead,EMP090,Rekha Mehra,2020-02-03,20,L3,Delhi,Active
+EMP181,Daniel,Smith,Daniel Smith,daniel.smith@company.com,9093796603,Marketing,Engineer,EMP341,Vikram Mirza,2024-06-22,3,L2,Delhi,Active
+EMP182,Aisha,Mukherjee,Aisha Mukherjee,aisha.mukherjee@company.com,9553714785,IT Support,Team Lead,EMP134,Kunal Martinez,2021-11-26,11,L3,Mumbai,Active
+EMP183,Megan,Mirza,Megan Mirza,megan.mirza@company.com,9249912513,Sales,Associate,EMP135,Tanuja Pillai,2025-10-11,4,L1,Bengaluru,Active
+EMP184,Aryan,Sethi,Aryan Sethi,aryan.sethi@company.com,9692966278,Finance,Senior Manager,EMP266,Vikram Iyer,2021-03-29,4,L5,Bengaluru,Active
+EMP185,Preeti,Malhotra,Preeti Malhotra,preeti.malhotra@company.com,9790507236,Customer Success,Team Lead,EMP032,Harsh Bose,2022-08-30,22,L3,Delhi,Active
+EMP186,Nicole,Thomas,Nicole Thomas,nicole.thomas@company.com,9219034043,Sales,Executive,EMP067,Madhuri Pandey,2023-07-22,17,L2,Pune,On Leave
+EMP187,Aryan,Reddy,Aryan Reddy,aryan.reddy@company.com,9914858078,Marketing,Team Lead,EMP315,Girish Roy,2025-05-01,24,L3,Hyderabad,Resigned
+EMP188,Saroj,Jain,Saroj Jain,saroj.jain@company.com,9074517133,Operations,Team Lead,EMP228,Rajesh Goel,2019-07-25,25,L3,Bengaluru,On Leave
+EMP189,Piyush,Dutta,Piyush Dutta,piyush.dutta@company.com,9095849825,Sales,Engineer,EMP247,Meera Qureshi,2023-10-09,28,L2,Mumbai,Active
+EMP190,Arun,Chandra,Arun Chandra,arun.chandra@company.com,9604223253,IT Support,Manager,EMP345,Kabir Menon,2025-02-03,8,L4,Bengaluru,On Leave
+EMP191,Robert,Mehra,Robert Mehra,robert.mehra@company.com,9711684577,Operations,Intern,EMP336,Bharat Shah,2023-02-21,20,L1,Delhi,Active
+EMP192,Radhika,Joshi,Radhika Joshi,radhika.joshi@company.com,9863637454,Operations,Senior Manager,EMP480,Rina White,2024-05-07,27,L5,Mumbai,Active
+EMP193,Jason,Arora,Jason Arora,jason.arora@company.com,9001701277,HR,Team Lead,EMP336,Bharat Shah,2019-06-25,28,L3,Bengaluru,Resigned
+EMP194,Rina,Ghosh,Rina Ghosh,rina.ghosh@company.com,9415415206,Sales,Analyst,EMP479,Michael Bhatt,2019-01-09,22,L2,Pune,Resigned
+EMP195,Arun,Sharma,Arun Sharma,arun.sharma@company.com,9371293870,HR,Senior Engineer,EMP190,Arun Chandra,2025-10-13,4,L3,Hyderabad,Active
+EMP196,Brian,Rao,Brian Rao,brian.rao@company.com,9361115542,IT Support,Executive,EMP262,Matthew Mukherjee,2019-08-09,2,L2,Delhi,Resigned
+EMP197,Riya,Sheikh,Riya Sheikh,riya.sheikh@company.com,9092753269,Customer Success,Analyst,EMP139,Sarah Jackson,2019-07-28,24,L2,Hyderabad,Active
+EMP198,Swati,Ahmed,Swati Ahmed,swati.ahmed@company.com,9656523413,Sales,Intern,EMP161,Samantha Rodrigues,2020-04-21,16,L1,Delhi,Active
+EMP199,Aryan,Sen,Aryan Sen,aryan.sen@company.com,9640376137,Engineering,Senior Manager,EMP121,Archana Chopra,2021-07-20,4,L5,Hyderabad,Active
+EMP200,Anita,Sheikh,Anita Sheikh,anita.sheikh@company.com,9658271091,HR,Engineer,EMP064,Meera Murthy,2018-09-05,30,L2,Bengaluru,Active
+EMP201,Sarah,White,Sarah White,sarah.white@company.com,9486661889,Finance,Engineer,EMP470,Christopher Iyer,2018-11-20,16,L2,Hyderabad,Active
+EMP202,Piyush,Das,Piyush Das,piyush.das@company.com,9856914630,Marketing,Associate,EMP188,Saroj Jain,2023-02-01,19,L1,Pune,Active
+EMP203,Manish,Kapoor,Manish Kapoor,manish.kapoor@company.com,9210202758,Sales,Executive,EMP086,Sonal Arora,2021-01-05,23,L2,Chennai,Active
+EMP204,Pranav,Sundaram,Pranav Sundaram,pranav.sundaram@company.com,9056481491,Customer Success,Manager,EMP274,Madhuri Shah,2018-08-16,15,L4,Mumbai,Active
+EMP205,Zoya,Banerjee,Zoya Banerjee,zoya.banerjee@company.com,9524191380,HR,Intern,EMP396,Tejas Chakraborty,2023-04-17,11,L1,Bengaluru,Active
+EMP206,Umesh,Das,Umesh Das,umesh.das@company.com,9208635365,Sales,Associate,EMP007,Smita Pandey,2019-05-05,16,L1,Mumbai,Active
+EMP207,Sneha,Chakraborty,Sneha Chakraborty,sneha.chakraborty@company.com,9380617445,Engineering,Senior Manager,EMP005,Vishal Dutta,2022-02-20,6,L5,Pune,Active
+EMP208,Aakash,Sheikh,Aakash Sheikh,aakash.sheikh@company.com,9493759738,Marketing,Executive,EMP301,Vikram Roy,2018-04-08,7,L2,Hyderabad,Active
+EMP209,Shaan,Chopra,Shaan Chopra,shaan.chopra@company.com,9050641383,IT Support,Manager,EMP086,Sonal Arora,2025-12-24,8,L4,Hyderabad,Active
+EMP210,Sunita,Patel,Sunita Patel,sunita.patel@company.com,9386571918,Finance,Team Lead,EMP006,Manish Trivedi,2024-05-14,1,L3,Hyderabad,On Leave
+EMP211,Stephanie,Rodrigues,Stephanie Rodrigues,stephanie.rodrigues@company.com,9234456557,Sales,Analyst,EMP127,Kevin Agarwal,2019-07-12,24,L2,Hyderabad,Active
+EMP212,Mariam,Iyer,Mariam Iyer,mariam.iyer@company.com,9212775618,Operations,Analyst,EMP494,Amanda Hussain,2023-03-13,8,L2,Pune,Active
+EMP213,Pranav,Pillai,Pranav Pillai,pranav.pillai@company.com,9249035213,Operations,Team Lead,EMP354,Deepak Khan,2025-08-05,9,L3,Mumbai,Active
+EMP214,Hemant,Chakraborty,Hemant Chakraborty,hemant.chakraborty@company.com,9067883171,Finance,Associate,EMP340,Sadia Ghosh,2020-06-29,4,L1,Hyderabad,Active
+EMP215,Harsh,Johnson,Harsh Johnson,harsh.johnson@company.com,9519941013,Customer Success,Executive,EMP306,Yash Kapoor,2019-05-17,1,L2,Hyderabad,Active
+EMP216,Andrew,Shah,Andrew Shah,andrew.shah@company.com,9296670662,Operations,Analyst,EMP500,Daniel Agarwal,2021-02-20,14,L2,Bengaluru,Active
+EMP217,Rohit,Kumar,Rohit Kumar,rohit.kumar@company.com,9999347687,HR,Associate,EMP470,Christopher Iyer,2019-07-17,13,L1,Chennai,Active
+EMP218,Bhavna,Pereira,Bhavna Pereira,bhavna.pereira@company.com,9838065787,Operations,Senior Manager,EMP464,Ali Balakrishnan,2021-01-12,5,L5,Chennai,Active
+EMP219,Suresh,Malhotra,Suresh Malhotra,suresh.malhotra@company.com,9930407859,Marketing,Executive,EMP355,Hina Malik,2025-05-14,7,L2,Hyderabad,Active
+EMP220,Sunil,Young,Sunil Young,sunil.young@company.com,9039652239,Operations,Senior Engineer,EMP228,Rajesh Goel,2025-11-21,22,L3,Mumbai,Active
+EMP221,Vishal,Sheikh,Vishal Sheikh,vishal.sheikh@company.com,9929378427,HR,Associate,EMP475,Pooja Murthy,2024-09-30,7,L1,Hyderabad,Active
+EMP222,Anjali,Thompson,Anjali Thompson,anjali.thompson@company.com,9705932525,HR,Intern,EMP473,Rina Pillai,2025-11-26,29,L1,Bengaluru,On Leave
+EMP223,Ajay,Gopalakrishnan,Ajay Gopalakrishnan,ajay.gopalakrishnan@company.com,9185156915,Sales,Senior Engineer,EMP269,Vinay Naidu,2022-11-25,25,L3,Bengaluru,Active
+EMP224,Jason,Gomes,Jason Gomes,jason.gomes@company.com,9528953926,Sales,Engineer,EMP301,Vikram Roy,2018-01-08,30,L2,Bengaluru,Active
+EMP225,Hassan,Smith,Hassan Smith,hassan.smith@company.com,9902959391,Customer Success,Executive,EMP228,Rajesh Goel,2018-11-15,7,L2,Chennai,Resigned
+EMP226,Santosh,Malhotra,Santosh Malhotra,santosh.malhotra@company.com,9215704331,Operations,Engineer,EMP068,Nalini Martinez,2018-01-06,1,L2,Hyderabad,Resigned
+EMP227,Umesh,Miller,Umesh Miller,umesh.miller@company.com,9626765861,Customer Success,Analyst,EMP095,Andrew Davis,2018-10-29,25,L2,Bengaluru,Active
+EMP228,Rajesh,Goel,Rajesh Goel,rajesh.goel@company.com,9054115262,Engineering,Senior Manager,EMP092,Michael Thompson,2024-08-30,19,L5,Hyderabad,Active
+EMP229,Samantha,Pillai,Samantha Pillai,samantha.pillai@company.com,9062962015,Marketing,Analyst,EMP006,Manish Trivedi,2024-03-19,23,L2,Pune,Resigned
+EMP230,Shaan,Dubey,Shaan Dubey,shaan.dubey@company.com,9443106987,Finance,Intern,EMP141,Ananya Chakraborty,2022-10-18,2,L1,Chennai,Active
+EMP231,Sheetal,Rodrigues,Sheetal Rodrigues,sheetal.rodrigues@company.com,9973103241,Customer Success,Associate,EMP088,Jason Ali,2023-04-13,15,L1,Chennai,Active
+EMP232,Kamala,Pillai,Kamala Pillai,kamala.pillai@company.com,9862565270,Sales,Manager,EMP007,Smita Pandey,2020-07-15,26,L4,Pune,Active
+EMP233,Sunil,Sheikh,Sunil Sheikh,sunil.sheikh@company.com,9021158693,HR,Team Lead,EMP141,Ananya Chakraborty,2024-01-03,21,L3,Mumbai,Active
+EMP234,Rachel,Siddiqui,Rachel Siddiqui,rachel.siddiqui@company.com,9374160898,Finance,Associate,EMP009,Aisha Venkatesh,2019-11-16,6,L1,Pune,Active
+EMP235,Ananya,Murthy,Ananya Murthy,ananya.murthy@company.com,9061632945,Engineering,Associate,EMP159,Nikhil Jackson,2022-06-16,17,L1,Pune,On Leave
+EMP236,Hema,Saxena,Hema Saxena,hema.saxena@company.com,9870998616,Finance,Executive,EMP354,Deepak Khan,2024-07-14,24,L2,Mumbai,On Leave
+EMP237,Geeta,Iyer,Geeta Iyer,geeta.iyer@company.com,9914856467,Customer Success,Intern,EMP490,Nandita Nambiar,2022-07-09,4,L1,Bengaluru,Active
+EMP238,Michael,Kumar,Michael Kumar,michael.kumar@company.com,9653074505,Sales,Engineer,EMP107,Vikram Fernandez,2025-10-22,21,L2,Chennai,Active
+EMP239,Geeta,Trivedi,Geeta Trivedi,geeta.trivedi@company.com,9247546913,Customer Success,Analyst,EMP490,Nandita Nambiar,2023-06-08,24,L2,Pune,Resigned
+EMP240,Kabir,Tandon,Kabir Tandon,kabir.tandon@company.com,9082148628,HR,Executive,EMP180,Tarun Rajan,2018-08-25,7,L2,Bengaluru,Active
+EMP241,Rajesh,Martinez,Rajesh Martinez,rajesh.martinez@company.com,9053457861,HR,Analyst,EMP326,Kamala Mirza,2024-08-30,14,L2,Chennai,Active
+EMP242,Jasmine,Anderson,Jasmine Anderson,jasmine.anderson@company.com,9985524140,IT Support,Intern,EMP480,Rina White,2020-05-27,27,L1,Bengaluru,On Leave
+EMP243,Dinesh,Pereira,Dinesh Pereira,dinesh.pereira@company.com,9334680072,Finance,Intern,EMP405,Ali Kapoor,2024-10-27,25,L1,Bengaluru,Active
+EMP244,Parth,Nambiar,Parth Nambiar,parth.nambiar@company.com,9466574374,IT Support,Associate,EMP141,Ananya Chakraborty,2025-06-06,30,L1,Hyderabad,On Leave
+EMP245,Malini,Ansari,Malini Ansari,malini.ansari@company.com,9994417154,Operations,Engineer,EMP068,Nalini Martinez,2025-12-22,30,L2,Chennai,Resigned
+EMP246,Chirag,Sen,Chirag Sen,chirag.sen@company.com,9283096520,Customer Success,Engineer,EMP228,Rajesh Goel,2022-07-16,12,L2,Chennai,Active
+EMP247,Meera,Qureshi,Meera Qureshi,meera.qureshi@company.com,9935387584,Finance,Senior Manager,EMP481,Kabir Mukherjee,2019-02-04,15,L5,Bengaluru,Active
+EMP248,Gaurav,Rajan,Gaurav Rajan,gaurav.rajan@company.com,9482513534,IT Support,Senior Engineer,EMP341,Vikram Mirza,2024-07-26,9,L3,Chennai,Active
+EMP249,Andrew,Naidu,Andrew Naidu,andrew.naidu@company.com,9709991738,Engineering,Team Lead,EMP107,Vikram Fernandez,2022-08-20,1,L3,Mumbai,Active
+EMP250,Rohit,Chandra,Rohit Chandra,rohit.chandra@company.com,9356972521,Customer Success,Senior Engineer,EMP350,Mamta Tiwari,2021-07-07,20,L3,Delhi,Active
+EMP251,Manish,Sharma,Manish Sharma,manish.sharma@company.com,9743292712,IT Support,Team Lead,EMP323,Jason Gopalakrishnan,2023-05-10,12,L3,Pune,Active
+EMP252,Priya,Kumar,Priya Kumar,priya.kumar@company.com,9835058300,Marketing,Analyst,EMP008,Nitin Das,2021-07-02,4,L2,Delhi,Active
+EMP253,Vivek,Sethi,Vivek Sethi,vivek.sethi@company.com,9894210447,Operations,Team Lead,EMP090,Rekha Mehra,2021-11-04,28,L3,Delhi,Active
+EMP254,Katherine,Ahuja,Katherine Ahuja,katherine.ahuja@company.com,9326033230,Finance,Associate,EMP121,Archana Chopra,2025-04-18,25,L1,Chennai,Resigned
+EMP255,Meera,Mehra,Meera Mehra,meera.mehra@company.com,9489090100,Engineering,Team Lead,EMP109,Ritu Chopra,2019-05-22,17,L3,Pune,Active
+EMP256,Yash,Anderson,Yash Anderson,yash.anderson@company.com,9230461849,Finance,Team Lead,EMP332,Vinay Khanna,2024-12-05,3,L3,Hyderabad,On Leave
+EMP257,Mayur,Reddy,Mayur Reddy,mayur.reddy@company.com,9173934835,IT Support,Engineer,EMP355,Hina Malik,2024-02-24,15,L2,Bengaluru,Active
+EMP258,Chitra,Lobo,Chitra Lobo,chitra.lobo@company.com,9753001197,Finance,Associate,EMP347,Vishal Malhotra,2019-02-19,28,L1,Mumbai,Active
+EMP259,Nalini,Pereira,Nalini Pereira,nalini.pereira@company.com,9374470120,Sales,Senior Engineer,EMP008,Nitin Das,2022-10-11,23,L3,Delhi,Active
+EMP260,Usha,Menon,Usha Menon,usha.menon@company.com,9002255794,Engineering,Senior Engineer,EMP334,James Rao,2019-04-12,12,L3,Chennai,Active
+EMP261,Michael,Martinez,Michael Martinez,michael.martinez@company.com,9467621202,Engineering,Team Lead,EMP464,Ali Balakrishnan,2024-05-19,21,L3,Mumbai,Active
+EMP262,Matthew,Mukherjee,Matthew Mukherjee,matthew.mukherjee@company.com,9965902771,IT Support,Manager,EMP161,Samantha Rodrigues,2020-12-07,20,L4,Hyderabad,Active
+EMP263,Ashok,Verma,Ashok Verma,ashok.verma@company.com,9899358891,IT Support,Analyst,EMP148,Ashley Tandon,2025-06-11,21,L2,Pune,Active
+EMP264,Faisal,Malik,Faisal Malik,faisal.malik@company.com,9002877217,Operations,Analyst,EMP213,Pranav Pillai,2018-07-26,16,L2,Chennai,Active
+EMP265,Archana,Khan,Archana Khan,archana.khan@company.com,9663177971,Customer Success,Manager,EMP341,Vikram Mirza,2023-07-31,23,L4,Chennai,Active
+EMP266,Vikram,Iyer,Vikram Iyer,vikram.iyer@company.com,9660880199,Sales,Senior Manager,EMP247,Meera Qureshi,2025-05-05,21,L5,Mumbai,Active
+EMP267,Christopher,Arora,Christopher Arora,christopher.arora@company.com,9503758997,Operations,Manager,EMP009,Aisha Venkatesh,2025-05-22,7,L4,Hyderabad,Active
+EMP268,Rahul,Arora,Rahul Arora,rahul.arora@company.com,9548851027,Finance,Team Lead,EMP256,Yash Anderson,2024-11-07,6,L3,Hyderabad,Active
+EMP269,Vinay,Naidu,Vinay Naidu,vinay.naidu@company.com,9637351609,Engineering,Manager,EMP005,Vishal Dutta,2024-08-10,30,L4,Pune,Resigned
+EMP270,Angela,Chandra,Angela Chandra,angela.chandra@company.com,9708086978,Finance,Executive,EMP083,Malini Das,2019-03-01,12,L2,Delhi,Active
+EMP271,Rakesh,White,Rakesh White,rakesh.white@company.com,9669346547,Finance,Executive,EMP481,Kabir Mukherjee,2025-11-07,28,L2,Pune,On Leave
+EMP272,Zara,Jain,Zara Jain,zara.jain@company.com,9858333945,Finance,Executive,EMP324,Girish Malhotra,2025-10-14,20,L2,Mumbai,On Leave
+EMP273,Rakesh,Pillai,Rakesh Pillai,rakesh.pillai@company.com,9158799684,IT Support,Intern,EMP312,Aisha Siddiqui,2018-04-14,12,L1,Mumbai,Active
+EMP274,Madhuri,Shah,Madhuri Shah,madhuri.shah@company.com,9034244204,Marketing,Senior Manager,EMP308,Umesh Johnson,2023-01-28,3,L5,Hyderabad,Active
+EMP275,Hina,Bhatt,Hina Bhatt,hina.bhatt@company.com,9863840666,Operations,Senior Manager,EMP473,Rina Pillai,2020-10-26,6,L5,Hyderabad,Active
+EMP276,Nicole,Bhatt,Nicole Bhatt,nicole.bhatt@company.com,9598933472,Engineering,Executive,EMP459,Aarti Iyer,2023-10-06,3,L2,Bengaluru,Resigned
+EMP277,Prasad,Patel,Prasad Patel,prasad.patel@company.com,9648422940,Operations,Manager,EMP352,Amit D'Souza,2018-06-13,4,L4,Delhi,Active
+EMP278,Rakesh,Hussain,Rakesh Hussain,rakesh.hussain@company.com,9094798515,Marketing,Executive,EMP439,Lata Shah,2023-09-01,5,L2,Mumbai,Active
+EMP279,Robert,Allen,Robert Allen,robert.allen@company.com,9861533555,Sales,Analyst,EMP210,Sunita Patel,2023-04-30,17,L2,Mumbai,On Leave
+EMP280,Amit,Reddy,Amit Reddy,amit.reddy@company.com,9573993056,Engineering,Team Lead,EMP023,Sneha Pillai,2021-03-04,0,L3,Chennai,On Leave
+EMP281,Kabir,Sundaram,Kabir Sundaram,kabir.sundaram@company.com,9588770435,Engineering,Associate,EMP355,Hina Malik,2023-12-25,0,L1,Bengaluru,On Leave
+EMP282,Sanjay,Dutta,Sanjay Dutta,sanjay.dutta@company.com,9361386120,Customer Success,Senior Engineer,EMP302,Rekha Ali,2018-10-28,1,L3,Hyderabad,Active
+EMP283,Jasmine,Tiwari,Jasmine Tiwari,jasmine.tiwari@company.com,9819346676,IT Support,Senior Engineer,EMP355,Hina Malik,2025-07-20,3,L3,Hyderabad,Active
+EMP284,Dhruv,Sharma,Dhruv Sharma,dhruv.sharma@company.com,9919015814,Sales,Associate,EMP385,Ashok Pillai,2022-04-12,12,L1,Chennai,Active
+EMP285,Kavya,Anderson,Kavya Anderson,kavya.anderson@company.com,9283268424,Operations,Intern,EMP466,Varun Jackson,2019-08-03,3,L1,Mumbai,On Leave
+EMP286,Arjun,Sharma,Arjun Sharma,arjun.sharma@company.com,9996881435,Marketing,Team Lead,EMP473,Rina Pillai,2019-08-07,5,L3,Delhi,On Leave
+EMP287,Preeti,Bhatt,Preeti Bhatt,preeti.bhatt@company.com,9943129087,Engineering,Engineer,EMP355,Hina Malik,2020-10-23,3,L2,Delhi,Active
+EMP288,Harsh,Krishnan,Harsh Krishnan,harsh.krishnan@company.com,9975523149,Engineering,Analyst,EMP175,Chitra Miller,2023-01-20,10,L2,Chennai,Active
+EMP289,Parth,Lobo,Parth Lobo,parth.lobo@company.com,9929955620,Operations,Analyst,EMP039,Andrew Mukherjee,2025-03-09,13,L2,Bengaluru,Resigned
+EMP290,Rohan,Bajaj,Rohan Bajaj,rohan.bajaj@company.com,9257775478,Engineering,Executive,EMP395,Shruti Mirza,2018-12-02,26,L2,Delhi,On Leave
+EMP291,Seema,Chandra,Seema Chandra,seema.chandra@company.com,9834110809,IT Support,Analyst,EMP007,Smita Pandey,2020-12-03,17,L2,Hyderabad,On Leave
+EMP292,Shaan,Anderson,Shaan Anderson,shaan.anderson@company.com,9256394278,Engineering,Team Lead,EMP323,Jason Gopalakrishnan,2018-02-13,21,L3,Chennai,On Leave
+EMP293,Shruti,Malik,Shruti Malik,shruti.malik@company.com,9282722992,Customer Success,Senior Engineer,EMP455,Tanuja Brown,2023-06-21,7,L3,Hyderabad,Active
+EMP294,Sanjay,Dubey,Sanjay Dubey,sanjay.dubey@company.com,9530385677,HR,Intern,EMP247,Meera Qureshi,2019-02-27,22,L1,Delhi,Active
+EMP295,Fatima,D'Souza,Fatima D'Souza,fatima.d'souza@company.com,9449892665,Engineering,Senior Manager,EMP341,Vikram Mirza,2020-07-01,16,L5,Chennai,Active
+EMP296,Emily,Ahuja,Emily Ahuja,emily.ahuja@company.com,9577908272,Marketing,Associate,EMP047,Parth Rodrigues,2021-02-24,6,L1,Mumbai,Resigned
+EMP297,Rohit,Mukherjee,Rohit Mukherjee,rohit.mukherjee@company.com,9259136517,Customer Success,Manager,EMP170,Sunita Hussain,2019-10-23,20,L4,Bengaluru,On Leave
+EMP298,Jessica,Singh,Jessica Singh,jessica.singh@company.com,9302992280,Finance,Intern,EMP488,Rajesh Rajan,2020-01-08,16,L1,Bengaluru,Active
+EMP299,Emily,Hussain,Emily Hussain,emily.hussain@company.com,9904137977,Finance,Analyst,EMP312,Aisha Siddiqui,2019-08-08,25,L2,Pune,On Leave
+EMP300,Mariam,Sundaram,Mariam Sundaram,mariam.sundaram@company.com,9298425799,Engineering,Analyst,EMP350,Mamta Tiwari,2019-06-26,3,L2,Pune,Active
+EMP301,Vikram,Roy,Vikram Roy,vikram.roy@company.com,9886291279,HR,Senior Manager,EMP086,Sonal Arora,2019-01-17,15,L5,Mumbai,Active
+EMP302,Rekha,Ali,Rekha Ali,rekha.ali@company.com,9806865086,Marketing,Manager,EMP306,Yash Kapoor,2024-08-09,25,L4,Pune,Active
+EMP303,Sana,Menon,Sana Menon,sana.menon@company.com,9624731498,IT Support,Engineer,EMP479,Michael Bhatt,2025-12-14,23,L2,Bengaluru,Active
+EMP304,Priya,Siddiqui,Priya Siddiqui,priya.siddiqui@company.com,9818063565,Engineering,Executive,EMP488,Rajesh Rajan,2024-07-25,8,L2,Pune,Resigned
+EMP305,Hemant,Young,Hemant Young,hemant.young@company.com,9695946368,Customer Success,Executive,EMP265,Archana Khan,2024-03-22,15,L2,Chennai,On Leave
+EMP306,Yash,Kapoor,Yash Kapoor,yash.kapoor@company.com,9956213721,Marketing,Senior Manager,EMP275,Hina Bhatt,2024-03-05,19,L5,Pune,Active
+EMP307,Sneha,Ghosh,Sneha Ghosh,sneha.ghosh@company.com,9601279611,Sales,Analyst,EMP326,Kamala Mirza,2024-10-30,1,L2,Chennai,Active
+EMP308,Umesh,Johnson,Umesh Johnson,umesh.johnson@company.com,9984902770,Marketing,Senior Manager,EMP007,Smita Pandey,2018-05-18,25,L5,Chennai,Active
+EMP309,Aryan,Martin,Aryan Martin,aryan.martin@company.com,9392053021,Sales,Team Lead,EMP118,Kunal Bajaj,2022-06-07,12,L3,Chennai,Resigned
+EMP310,Bhavna,Martin,Bhavna Martin,bhavna.martin@company.com,9011848955,Sales,Analyst,EMP209,Shaan Chopra,2023-02-06,29,L2,Mumbai,Active
+EMP311,Emily,Siddiqui,Emily Siddiqui,emily.siddiqui@company.com,9042681818,Sales,Senior Engineer,EMP145,Tanvir White,2020-11-21,28,L3,Hyderabad,On Leave
+EMP312,Aisha,Siddiqui,Aisha Siddiqui,aisha.siddiqui@company.com,9476973577,HR,Manager,EMP301,Vikram Roy,2018-10-04,12,L4,Hyderabad,Active
+EMP313,Dinesh,Sequeira,Dinesh Sequeira,dinesh.sequeira@company.com,9356588043,Sales,Associate,EMP265,Archana Khan,2021-11-01,2,L1,Pune,Resigned
+EMP314,Sadia,Chakraborty,Sadia Chakraborty,sadia.chakraborty@company.com,9755394237,Marketing,Analyst,EMP327,Radhika Khanna,2020-12-23,6,L2,Delhi,Active
+EMP315,Girish,Roy,Girish Roy,girish.roy@company.com,9395211179,HR,Senior Manager,EMP159,Nikhil Jackson,2022-03-01,19,L5,Hyderabad,Active
+EMP316,Ashok,Jackson,Ashok Jackson,ashok.jackson@company.com,9947284639,Finance,Intern,EMP369,Arjun Pandey,2023-05-14,30,L1,Mumbai,Active
+EMP317,Shaan,Kumar,Shaan Kumar,shaan.kumar@company.com,9856271875,HR,Intern,EMP170,Sunita Hussain,2022-04-04,18,L1,Delhi,Active
+EMP318,Geeta,Khanna,Geeta Khanna,geeta.khanna@company.com,9594284347,Operations,Senior Engineer,EMP464,Ali Balakrishnan,2022-10-03,6,L3,Bengaluru,Active
+EMP319,Ashley,Dias,Ashley Dias,ashley.dias@company.com,9556472929,Marketing,Associate,EMP261,Michael Martinez,2020-08-23,17,L1,Delhi,Active
+EMP320,Daniel,Mehra,Daniel Mehra,daniel.mehra@company.com,9322702672,Operations,Manager,EMP352,Amit D'Souza,2024-04-21,27,L4,Chennai,Active
+EMP321,Zoya,Shah,Zoya Shah,zoya.shah@company.com,9612034717,Operations,Engineer,EMP500,Daniel Agarwal,2024-04-14,17,L2,Chennai,Active
+EMP322,Nalini,Chopra,Nalini Chopra,nalini.chopra@company.com,9061593998,Finance,Engineer,EMP345,Kabir Menon,2025-07-20,16,L2,Chennai,Active
+EMP323,Jason,Gopalakrishnan,Jason Gopalakrishnan,jason.gopalakrishnan@company.com,9716947225,IT Support,Team Lead,EMP097,Saroj Pillai,2019-10-26,10,L3,Hyderabad,Active
+EMP324,Girish,Malhotra,Girish Malhotra,girish.malhotra@company.com,9544964759,Customer Success,Team Lead,EMP213,Pranav Pillai,2018-04-05,4,L3,Bengaluru,Active
+EMP325,Tejas,Rodrigues,Tejas Rodrigues,tejas.rodrigues@company.com,9413261117,HR,Intern,EMP295,Fatima D'Souza,2018-12-07,3,L1,Pune,On Leave
+EMP326,Kamala,Mirza,Kamala Mirza,kamala.mirza@company.com,9216433472,Finance,Senior Manager,EMP266,Vikram Iyer,2018-05-24,21,L5,Bengaluru,Active
+EMP327,Radhika,Khanna,Radhika Khanna,radhika.khanna@company.com,9778487282,Customer Success,Team Lead,EMP500,Daniel Agarwal,2025-03-04,17,L3,Mumbai,Resigned
+EMP328,Sonal,Chopra,Sonal Chopra,sonal.chopra@company.com,9783174564,Finance,Engineer,EMP269,Vinay Naidu,2023-11-14,26,L2,Hyderabad,Active
+EMP329,Varun,Chopra,Varun Chopra,varun.chopra@company.com,9478077406,Sales,Analyst,EMP347,Vishal Malhotra,2022-03-11,6,L2,Hyderabad,On Leave
+EMP330,Jessica,Ansari,Jessica Ansari,jessica.ansari@company.com,9663266341,IT Support,Analyst,EMP118,Kunal Bajaj,2025-10-13,21,L2,Mumbai,On Leave
+EMP331,Vidya,Agarwal,Vidya Agarwal,vidya.agarwal@company.com,9846312241,Customer Success,Manager,EMP368,Megan Pandey,2024-12-25,15,L4,Chennai,Resigned
+EMP332,Vinay,Khanna,Vinay Khanna,vinay.khanna@company.com,9020802144,Finance,Manager,EMP148,Ashley Tandon,2020-08-11,2,L4,Delhi,Active
+EMP333,Rohit,Verma,Rohit Verma,rohit.verma@company.com,9735647570,Operations,Associate,EMP207,Sneha Chakraborty,2020-12-27,24,L1,Bengaluru,Active
+EMP334,James,Rao,James Rao,james.rao@company.com,9872346013,IT Support,Manager,EMP443,Shaan Murthy,2018-05-18,6,L4,Bengaluru,Resigned
+EMP335,Megan,Rajan,Megan Rajan,megan.rajan@company.com,9183764520,Engineering,Engineer,EMP068,Nalini Martinez,2021-05-08,6,L2,Pune,Resigned
+EMP336,Bharat,Shah,Bharat Shah,bharat.shah@company.com,9313650249,Engineering,Team Lead,EMP355,Hina Malik,2018-06-22,18,L3,Bengaluru,Active
+EMP337,Rachel,Lobo,Rachel Lobo,rachel.lobo@company.com,9925132719,Operations,Intern,EMP097,Saroj Pillai,2025-03-25,4,L1,Hyderabad,Active
+EMP338,Aisha,Iyer,Aisha Iyer,aisha.iyer@company.com,9273585730,IT Support,Senior Engineer,EMP133,Rohit Williams,2020-10-23,28,L3,Delhi,Active
+EMP339,Arjun,Thomas,Arjun Thomas,arjun.thomas@company.com,9784873928,Operations,Senior Engineer,EMP148,Ashley Tandon,2021-02-01,27,L3,Delhi,Active
+EMP340,Sadia,Ghosh,Sadia Ghosh,sadia.ghosh@company.com,9182744857,HR,Senior Manager,EMP110,Varun Joshi,2020-01-30,28,L5,Pune,Resigned
+EMP341,Vikram,Mirza,Vikram Mirza,vikram.mirza@company.com,9593518638,Customer Success,Senior Manager,EMP368,Megan Pandey,2021-03-05,10,L5,Bengaluru,On Leave
+EMP342,David,Pereira,David Pereira,david.pereira@company.com,9511810220,Marketing,Associate,EMP359,Pooja Tiwari,2019-02-09,1,L1,Pune,Active
+EMP343,Hassan,Pereira,Hassan Pereira,hassan.pereira@company.com,9678994053,Engineering,Intern,EMP079,Kamala Shah,2023-07-06,29,L1,Bengaluru,Resigned
+EMP344,Kiran,Wilson,Kiran Wilson,kiran.wilson@company.com,9058650948,HR,Associate,EMP312,Aisha Siddiqui,2020-06-03,30,L1,Chennai,Active
+EMP345,Kabir,Menon,Kabir Menon,kabir.menon@company.com,9138633839,Finance,Senior Manager,EMP306,Yash Kapoor,2022-08-28,23,L5,Delhi,On Leave
+EMP346,Lakshmi,Sundaram,Lakshmi Sundaram,lakshmi.sundaram@company.com,9957612286,Operations,Executive,EMP228,Rajesh Goel,2022-12-20,29,L2,Mumbai,On Leave
+EMP347,Vishal,Malhotra,Vishal Malhotra,vishal.malhotra@company.com,9855665939,Marketing,Team Lead,EMP177,Pooja Sheikh,2020-11-06,11,L3,Mumbai,Resigned
+EMP348,Elizabeth,Davis,Elizabeth Davis,elizabeth.davis@company.com,9600490824,HR,Engineer,EMP159,Nikhil Jackson,2021-07-13,0,L2,Bengaluru,Active
+EMP349,Rohan,Khan,Rohan Khan,rohan.khan@company.com,9889921075,Finance,Executive,EMP442,James Chakraborty,2024-07-12,7,L2,Chennai,Active
+EMP350,Mamta,Tiwari,Mamta Tiwari,mamta.tiwari@company.com,9419693157,Finance,Manager,EMP009,Aisha Venkatesh,2024-06-18,26,L4,Delhi,Resigned
+EMP351,Arun,Hussain,Arun Hussain,arun.hussain@company.com,9409610556,IT Support,Associate,EMP007,Smita Pandey,2025-04-27,27,L1,Bengaluru,Resigned
+EMP352,Amit,D'Souza,Amit D'Souza,amit.d'souza@company.com,9604805892,Operations,Senior Manager,EMP207,Sneha Chakraborty,2019-09-20,1,L5,Delhi,Active
+EMP353,James,Davis,James Davis,james.davis@company.com,9998136462,Finance,Senior Engineer,EMP188,Saroj Jain,2024-05-29,23,L3,Hyderabad,Active
+EMP354,Deepak,Khan,Deepak Khan,deepak.khan@company.com,9641686227,Marketing,Manager,EMP207,Sneha Chakraborty,2024-05-29,6,L4,Pune,Resigned
+EMP355,Hina,Malik,Hina Malik,hina.malik@company.com,9833146591,Engineering,Team Lead,EMP110,Varun Joshi,2021-11-27,6,L3,Pune,Active
+EMP356,Rakesh,Chopra,Rakesh Chopra,rakesh.chopra@company.com,9904259792,Customer Success,Intern,EMP133,Rohit Williams,2025-09-08,11,L1,Bengaluru,Active
+EMP357,Pallavi,Venkatesh,Pallavi Venkatesh,pallavi.venkatesh@company.com,9110392405,Engineering,Engineer,EMP368,Megan Pandey,2018-04-04,10,L2,Pune,Active
+EMP358,Chitra,Rajan,Chitra Rajan,chitra.rajan@company.com,9833884879,Finance,Intern,EMP021,Rekha Chopra,2025-06-10,16,L1,Pune,On Leave
+EMP359,Pooja,Tiwari,Pooja Tiwari,pooja.tiwari@company.com,9204394070,Engineering,Team Lead,EMP047,Parth Rodrigues,2025-06-08,27,L3,Delhi,Active
+EMP360,Bharat,Iyer,Bharat Iyer,bharat.iyer@company.com,9046368157,Engineering,Executive,EMP261,Michael Martinez,2023-02-19,17,L2,Bengaluru,On Leave
+EMP361,Anjali,Patel,Anjali Patel,anjali.patel@company.com,9384576205,Operations,Senior Engineer,EMP324,Girish Malhotra,2020-08-25,16,L3,Delhi,Active
+EMP362,Rohan,Mehta,Rohan Mehta,rohan.mehta@company.com,9460843256,Finance,Associate,EMP090,Rekha Mehra,2023-11-03,30,L1,Delhi,Active
+EMP363,Girish,Brown,Girish Brown,girish.brown@company.com,9392649578,Finance,Analyst,EMP475,Pooja Murthy,2024-07-07,17,L2,Delhi,Active
+EMP364,Bhavna,Chandra,Bhavna Chandra,bhavna.chandra@company.com,9482629251,Engineering,Executive,EMP174,Katherine Siddiqui,2018-05-01,24,L2,Chennai,Active
+EMP365,Jyoti,Williams,Jyoti Williams,jyoti.williams@company.com,9647423122,HR,Engineer,EMP092,Michael Thompson,2024-11-13,7,L2,Mumbai,On Leave
+EMP366,Mamta,Trivedi,Mamta Trivedi,mamta.trivedi@company.com,9051728975,Finance,Team Lead,EMP448,Sheetal Anderson,2019-07-18,5,L3,Pune,Active
+EMP367,Ananya,Bhatt,Ananya Bhatt,ananya.bhatt@company.com,9060463331,Finance,Manager,EMP159,Nikhil Jackson,2025-09-18,10,L4,Mumbai,Active
+EMP368,Megan,Pandey,Megan Pandey,megan.pandey@company.com,9660965699,HR,Senior Manager,EMP306,Yash Kapoor,2023-02-15,26,L5,Hyderabad,Active
+EMP369,Arjun,Pandey,Arjun Pandey,arjun.pandey@company.com,9886086803,Sales,Manager,EMP163,Emily Martinez,2021-03-17,14,L4,Pune,Active
+EMP370,Tarun,Jones,Tarun Jones,tarun.jones@company.com,9490827718,Engineering,Executive,EMP262,Matthew Mukherjee,2024-02-17,4,L2,Mumbai,Resigned
+EMP371,James,Williams,James Williams,james.williams@company.com,9570279371,Sales,Senior Engineer,EMP267,Christopher Arora,2025-12-24,25,L3,Delhi,Resigned
+EMP372,Aarti,Nambiar,Aarti Nambiar,aarti.nambiar@company.com,9111751868,Finance,Team Lead,EMP032,Harsh Bose,2018-06-29,24,L3,Mumbai,Active
+EMP373,Vandana,Bhatia,Vandana Bhatia,vandana.bhatia@company.com,9922220644,Customer Success,Engineer,EMP442,James Chakraborty,2019-04-27,28,L2,Delhi,Active
+EMP374,Rekha,Roy,Rekha Roy,rekha.roy@company.com,9094077780,Customer Success,Analyst,EMP192,Radhika Joshi,2025-05-25,15,L2,Bengaluru,On Leave
+EMP375,Christopher,Williams,Christopher Williams,christopher.williams@company.com,9719903849,Marketing,Intern,EMP108,Ishan Bajaj,2018-08-14,20,L1,Bengaluru,Active
+EMP376,Aparna,Kumar,Aparna Kumar,aparna.kumar@company.com,9209945101,IT Support,Executive,EMP385,Ashok Pillai,2021-03-10,19,L2,Bengaluru,Resigned
+EMP377,Hassan,Ansari,Hassan Ansari,hassan.ansari@company.com,9279501455,IT Support,Associate,EMP470,Christopher Iyer,2018-09-23,9,L1,Pune,On Leave
+EMP378,Kevin,Chandra,Kevin Chandra,kevin.chandra@company.com,9145868339,HR,Associate,EMP083,Malini Das,2025-01-20,16,L1,Mumbai,Resigned
+EMP379,Ravi,Taylor,Ravi Taylor,ravi.taylor@company.com,9946954899,Operations,Executive,EMP033,Priya Venkatesh,2023-07-27,16,L2,Mumbai,On Leave
+EMP380,Christine,Jackson,Christine Jackson,christine.jackson@company.com,9293430107,Engineering,Analyst,EMP327,Radhika Khanna,2022-08-23,1,L2,Mumbai,Active
+EMP381,Nandita,Chopra,Nandita Chopra,nandita.chopra@company.com,9830344144,Operations,Intern,EMP340,Sadia Ghosh,2021-09-27,10,L1,Hyderabad,Resigned
+EMP382,Sarah,Krishnan,Sarah Krishnan,sarah.krishnan@company.com,9990235577,HR,Executive,EMP088,Jason Ali,2025-01-13,14,L2,Pune,Active
+EMP383,Aisha,Bhatia,Aisha Bhatia,aisha.bhatia@company.com,9760849588,HR,Analyst,EMP086,Sonal Arora,2021-09-20,25,L2,Mumbai,Resigned
+EMP384,Vishal,Joshi,Vishal Joshi,vishal.joshi@company.com,9240568299,IT Support,Executive,EMP472,Payal Allen,2021-06-16,22,L2,Mumbai,Active
+EMP385,Ashok,Pillai,Ashok Pillai,ashok.pillai@company.com,9046173574,Marketing,Senior Manager,EMP368,Megan Pandey,2019-04-05,11,L5,Chennai,Active
+EMP386,Meera,Gopalakrishnan,Meera Gopalakrishnan,meera.gopalakrishnan@company.com,9317807823,Operations,Manager,EMP481,Kabir Mukherjee,2021-06-25,24,L4,Delhi,On Leave
+EMP387,Hema,Bose,Hema Bose,hema.bose@company.com,9182307681,HR,Engineer,EMP083,Malini Das,2024-08-31,27,L2,Hyderabad,Resigned
+EMP388,Ravi,Bhatia,Ravi Bhatia,ravi.bhatia@company.com,9701840943,Operations,Analyst,EMP443,Shaan Murthy,2021-02-07,17,L2,Bengaluru,Active
+EMP389,Jyoti,Sundaram,Jyoti Sundaram,jyoti.sundaram@company.com,9714224109,Engineering,Analyst,EMP028,Stephanie Chopra,2024-02-29,10,L2,Mumbai,Active
+EMP390,Vidya,Bose,Vidya Bose,vidya.bose@company.com,9493214958,Customer Success,Intern,EMP369,Arjun Pandey,2023-04-13,28,L1,Bengaluru,Active
+EMP391,Deepak,Iyer,Deepak Iyer,deepak.iyer@company.com,9601662997,Operations,Engineer,EMP083,Malini Das,2025-12-30,24,L2,Chennai,Active
+EMP392,Dhruv,Nair,Dhruv Nair,dhruv.nair@company.com,9792171747,Customer Success,Analyst,EMP121,Archana Chopra,2024-12-01,8,L2,Bengaluru,Active
+EMP393,Lata,Smith,Lata Smith,lata.smith@company.com,9255770171,Operations,Manager,EMP385,Ashok Pillai,2021-03-02,24,L4,Pune,Active
+EMP394,Aparna,Ali,Aparna Ali,aparna.ali@company.com,9928161581,Sales,Senior Manager,EMP086,Sonal Arora,2024-08-15,13,L5,Pune,Active
+EMP395,Shruti,Mirza,Shruti Mirza,shruti.mirza@company.com,9382761539,IT Support,Team Lead,EMP155,Vinay Shah,2024-02-09,22,L3,Mumbai,Active
+EMP396,Tejas,Chakraborty,Tejas Chakraborty,tejas.chakraborty@company.com,9197199758,Engineering,Manager,EMP218,Bhavna Pereira,2022-07-21,2,L4,Bengaluru,Active
+EMP397,Lakshmi,Mascarenhas,Lakshmi Mascarenhas,lakshmi.mascarenhas@company.com,9965701329,HR,Executive,EMP110,Varun Joshi,2023-01-30,17,L2,Delhi,Active
+EMP398,Aakash,Sethi,Aakash Sethi,aakash.sethi@company.com,9997335494,IT Support,Senior Engineer,EMP210,Sunita Patel,2018-02-03,19,L3,Hyderabad,On Leave
+EMP399,Aryan,Johnson,Aryan Johnson,aryan.johnson@company.com,9240580085,Engineering,Engineer,EMP331,Vidya Agarwal,2022-11-04,22,L2,Hyderabad,Active
+EMP400,James,Fernandez,James Fernandez,james.fernandez@company.com,9566668327,Finance,Analyst,EMP369,Arjun Pandey,2022-01-15,26,L2,Mumbai,Active
+EMP401,Robert,Das,Robert Das,robert.das@company.com,9422010276,Finance,Associate,EMP367,Ananya Bhatt,2022-08-31,27,L1,Bengaluru,Resigned
+EMP402,Christopher,Dias,Christopher Dias,christopher.dias@company.com,9969278687,IT Support,Senior Engineer,EMP079,Kamala Shah,2022-10-06,19,L3,Bengaluru,Active
+EMP403,Christine,Subramaniam,Christine Subramaniam,christine.subramaniam@company.com,9384689500,Customer Success,Senior Engineer,EMP109,Ritu Chopra,2023-05-27,30,L3,Hyderabad,On Leave
+EMP404,Kiran,Bose,Kiran Bose,kiran.bose@company.com,9847818913,Customer Success,Associate,EMP488,Rajesh Rajan,2024-01-18,25,L1,Delhi,Resigned
+EMP405,Ali,Kapoor,Ali Kapoor,ali.kapoor@company.com,9905807787,Operations,Team Lead,EMP274,Madhuri Shah,2021-03-30,5,L3,Chennai,Active
+EMP406,Meera,Lobo,Meera Lobo,meera.lobo@company.com,9949407929,HR,Engineer,EMP256,Yash Anderson,2018-04-22,9,L2,Delhi,On Leave
+EMP407,Jason,Nair,Jason Nair,jason.nair@company.com,9281442944,Sales,Intern,EMP101,Pallavi Ghosh,2024-10-09,5,L1,Delhi,Active
+EMP408,Rohit,Rodrigues,Rohit Rodrigues,rohit.rodrigues@company.com,9752437280,Operations,Associate,EMP093,Madhuri Mishra,2019-09-24,26,L1,Bengaluru,On Leave
+EMP409,Ryan,Venkatesh,Ryan Venkatesh,ryan.venkatesh@company.com,9663723950,Sales,Associate,EMP148,Ashley Tandon,2023-03-16,12,L1,Hyderabad,Active
+EMP410,Rachel,Jain,Rachel Jain,rachel.jain@company.com,9783667428,IT Support,Intern,EMP327,Radhika Khanna,2022-04-14,21,L1,Chennai,Active
+EMP411,Ashok,Thompson,Ashok Thompson,ashok.thompson@company.com,9018569454,Sales,Associate,EMP312,Aisha Siddiqui,2024-07-20,12,L1,Chennai,Resigned
+EMP412,Andrew,Sundaram,Andrew Sundaram,andrew.sundaram@company.com,9393852580,HR,Associate,EMP004,Bharat Siddiqui,2019-02-05,16,L1,Hyderabad,Active
+EMP413,Vivek,Mascarenhas,Vivek Mascarenhas,vivek.mascarenhas@company.com,9753443009,Engineering,Intern,EMP182,Aisha Mukherjee,2020-06-07,30,L1,Mumbai,Resigned
+EMP414,Swati,Pillai,Swati Pillai,swati.pillai@company.com,9119269212,Sales,Engineer,EMP350,Mamta Tiwari,2018-11-07,20,L2,Pune,Resigned
+EMP415,Christopher,Saxena,Christopher Saxena,christopher.saxena@company.com,9654214066,Operations,Intern,EMP262,Matthew Mukherjee,2019-12-30,14,L1,Chennai,Active
+EMP416,Ritu,Thomas,Ritu Thomas,ritu.thomas@company.com,9396271286,Marketing,Associate,EMP209,Shaan Chopra,2020-11-26,3,L1,Pune,Resigned
+EMP417,Rajesh,Rao,Rajesh Rao,rajesh.rao@company.com,9194707200,IT Support,Engineer,EMP369,Arjun Pandey,2021-09-12,28,L2,Bengaluru,Resigned
+EMP418,James,Siddiqui,James Siddiqui,james.siddiqui@company.com,9087766183,HR,Team Lead,EMP127,Kevin Agarwal,2019-05-12,18,L3,Delhi,Active
+EMP419,Aisha,Ahuja,Aisha Ahuja,aisha.ahuja@company.com,9546015851,Customer Success,Engineer,EMP067,Madhuri Pandey,2019-12-25,17,L2,Delhi,Active
+EMP420,Arjun,Sethi,Arjun Sethi,arjun.sethi@company.com,9346157173,Finance,Intern,EMP192,Radhika Joshi,2024-08-25,7,L1,Bengaluru,Active
+EMP421,Katherine,Sethi,Katherine Sethi,katherine.sethi@company.com,9184787005,HR,Senior Engineer,EMP277,Prasad Patel,2022-07-19,3,L3,Delhi,Active
+EMP422,Saurabh,Gomes,Saurabh Gomes,saurabh.gomes@company.com,9878293102,Customer Success,Intern,EMP312,Aisha Siddiqui,2018-07-07,7,L1,Pune,On Leave
+EMP423,Rekha,Verma,Rekha Verma,rekha.verma@company.com,9204179291,Engineering,Associate,EMP269,Vinay Naidu,2024-11-26,7,L1,Pune,On Leave
+EMP424,Sanjay,Roy,Sanjay Roy,sanjay.roy@company.com,9656519825,Marketing,Intern,EMP481,Kabir Mukherjee,2021-10-06,2,L1,Mumbai,Active
+EMP425,Pranav,Saxena,Pranav Saxena,pranav.saxena@company.com,9262582739,HR,Executive,EMP182,Aisha Mukherjee,2024-11-13,12,L2,Hyderabad,Resigned
+EMP426,Sachin,Singh,Sachin Singh,sachin.singh@company.com,9710021946,Customer Success,Executive,EMP108,Ishan Bajaj,2025-03-05,8,L2,Bengaluru,Active
+EMP427,Fatima,Davis,Fatima Davis,fatima.davis@company.com,9632909279,Engineering,Engineer,EMP395,Shruti Mirza,2018-01-19,17,L2,Chennai,Active
+EMP428,Tejas,Sen,Tejas Sen,tejas.sen@company.com,9181958837,Marketing,Engineer,EMP315,Girish Roy,2019-04-07,25,L2,Hyderabad,Active
+EMP429,Rohit,Mascarenhas,Rohit Mascarenhas,rohit.mascarenhas@company.com,9772200543,IT Support,Engineer,EMP174,Katherine Siddiqui,2023-01-31,1,L2,Chennai,On Leave
+EMP430,Vivek,Rajan,Vivek Rajan,vivek.rajan@company.com,9082207811,Marketing,Manager,EMP092,Michael Thompson,2021-08-28,13,L4,Mumbai,On Leave
+EMP431,Harsh,Natarajan,Harsh Natarajan,harsh.natarajan@company.com,9531531363,IT Support,Analyst,EMP323,Jason Gopalakrishnan,2024-07-24,15,L2,Hyderabad,Active
+EMP432,Sneha,Garcia,Sneha Garcia,sneha.garcia@company.com,9239726527,Marketing,Senior Engineer,EMP309,Aryan Martin,2021-10-07,4,L3,Chennai,Active
+EMP433,Rajesh,Lobo,Rajesh Lobo,rajesh.lobo@company.com,9904217762,Operations,Analyst,EMP308,Umesh Johnson,2019-10-05,25,L2,Chennai,On Leave
+EMP434,Vandana,Siddiqui,Vandana Siddiqui,vandana.siddiqui@company.com,9831687397,Customer Success,Engineer,EMP340,Sadia Ghosh,2022-10-20,23,L2,Hyderabad,Resigned
+EMP435,Saroj,Pandey,Saroj Pandey,saroj.pandey@company.com,9569392906,HR,Intern,EMP386,Meera Gopalakrishnan,2023-08-28,1,L1,Pune,Resigned
+EMP436,William,Thompson,William Thompson,william.thompson@company.com,9671773180,IT Support,Analyst,EMP269,Vinay Naidu,2021-04-26,7,L2,Bengaluru,Active
+EMP437,Sunita,Singh,Sunita Singh,sunita.singh@company.com,9742799077,Finance,Team Lead,EMP016,Saroj Rao,2025-01-11,14,L3,Bengaluru,Active
+EMP438,Rahul,Fernandez,Rahul Fernandez,rahul.fernandez@company.com,9165804649,Marketing,Associate,EMP331,Vidya Agarwal,2018-08-13,16,L1,Mumbai,Active
+EMP439,Lata,Shah,Lata Shah,lata.shah@company.com,9165790552,Engineering,Senior Manager,EMP099,James Murthy,2019-07-21,10,L5,Delhi,Active
+EMP440,Shruti,Allen,Shruti Allen,shruti.allen@company.com,9179335548,IT Support,Engineer,EMP005,Vishal Dutta,2022-03-08,11,L2,Hyderabad,Active
+EMP441,Elizabeth,Thomas,Elizabeth Thomas,elizabeth.thomas@company.com,9881788479,Operations,Associate,EMP386,Meera Gopalakrishnan,2018-12-24,2,L1,Bengaluru,Active
+EMP442,James,Chakraborty,James Chakraborty,james.chakraborty@company.com,9411241272,Marketing,Senior Manager,EMP021,Rekha Chopra,2021-04-15,13,L5,Delhi,Active
+EMP443,Shaan,Murthy,Shaan Murthy,shaan.murthy@company.com,9756704310,Marketing,Senior Manager,EMP023,Sneha Pillai,2022-08-14,18,L5,Delhi,Active
+EMP444,Payal,Gomes,Payal Gomes,payal.gomes@company.com,9579887749,Finance,Engineer,EMP261,Michael Martinez,2020-07-17,15,L2,Bengaluru,Active
+EMP445,Malini,Agarwal,Malini Agarwal,malini.agarwal@company.com,9025472928,Sales,Executive,EMP247,Meera Qureshi,2025-10-08,28,L2,Bengaluru,Resigned
+EMP446,Tejas,Reddy,Tejas Reddy,tejas.reddy@company.com,9059274523,HR,Senior Engineer,EMP302,Rekha Ali,2022-03-08,14,L3,Chennai,Active
+EMP447,Shaan,Ghosh,Shaan Ghosh,shaan.ghosh@company.com,9841067275,Finance,Intern,EMP121,Archana Chopra,2023-09-10,10,L1,Delhi,On Leave
+EMP448,Sheetal,Anderson,Sheetal Anderson,sheetal.anderson@company.com,9492975170,Finance,Senior Manager,EMP274,Madhuri Shah,2018-04-12,12,L5,Hyderabad,Active
+EMP449,Dinesh,Davis,Dinesh Davis,dinesh.davis@company.com,9515093983,Sales,Analyst,EMP039,Andrew Mukherjee,2024-01-15,27,L2,Hyderabad,Active
+EMP450,Joseph,Sequeira,Joseph Sequeira,joseph.sequeira@company.com,9186375998,HR,Senior Engineer,EMP297,Rohit Mukherjee,2022-10-18,11,L3,Pune,Active
+EMP451,Umesh,Tandon,Umesh Tandon,umesh.tandon@company.com,9045547813,Customer Success,Team Lead,EMP023,Sneha Pillai,2019-11-02,25,L3,Pune,Active
+EMP452,William,Subramaniam,William Subramaniam,william.subramaniam@company.com,9629912347,Operations,Associate,EMP487,Katherine Young,2018-12-29,0,L1,Mumbai,Active
+EMP453,David,D'Souza,David D'Souza,david.d'souza@company.com,9462879232,IT Support,Engineer,EMP108,Ishan Bajaj,2018-06-22,26,L2,Mumbai,Active
+EMP454,Rina,Qureshi,Rina Qureshi,rina.qureshi@company.com,9478730024,Sales,Manager,EMP341,Vikram Mirza,2025-06-20,28,L4,Hyderabad,Resigned
+EMP455,Tanuja,Brown,Tanuja Brown,tanuja.brown@company.com,9273014719,Operations,Manager,EMP009,Aisha Venkatesh,2020-11-22,20,L4,Mumbai,Active
+EMP456,Pranav,Tandon,Pranav Tandon,pranav.tandon@company.com,9890429025,Customer Success,Executive,EMP481,Kabir Mukherjee,2018-08-05,8,L2,Chennai,Active
+EMP457,Bharat,Brown,Bharat Brown,bharat.brown@company.com,9504481832,Engineering,Executive,EMP393,Lata Smith,2021-07-19,26,L2,Mumbai,Active
+EMP458,Rina,Srivastava,Rina Srivastava,rina.srivastava@company.com,9518952028,Sales,Senior Engineer,EMP213,Pranav Pillai,2021-10-25,29,L3,Pune,Active
+EMP459,Aarti,Iyer,Aarti Iyer,aarti.iyer@company.com,9328338988,Engineering,Team Lead,EMP315,Girish Roy,2019-04-23,26,L3,Pune,Active
+EMP460,Rekha,Singh,Rekha Singh,rekha.singh@company.com,9754527985,Finance,Engineer,EMP302,Rekha Ali,2019-05-01,7,L2,Hyderabad,Resigned
+EMP461,Gaurav,Lobo,Gaurav Lobo,gaurav.lobo@company.com,9234232161,Engineering,Intern,EMP439,Lata Shah,2018-06-24,6,L1,Pune,Active
+EMP462,Lakshmi,Kumar,Lakshmi Kumar,lakshmi.kumar@company.com,9890714014,HR,Associate,EMP228,Rajesh Goel,2020-04-21,18,L1,Hyderabad,On Leave
+EMP463,Bhavna,Mukherjee,Bhavna Mukherjee,bhavna.mukherjee@company.com,9501249552,Marketing,Senior Manager,EMP464,Ali Balakrishnan,2019-02-10,26,L5,Mumbai,Active
+EMP464,Ali,Balakrishnan,Ali Balakrishnan,ali.balakrishnan@company.com,9083342801,Marketing,Senior Manager,EMP473,Rina Pillai,2022-02-10,22,L5,Delhi,Active
+EMP465,Preeti,Miller,Preeti Miller,preeti.miller@company.com,9125663836,Engineering,Senior Engineer,EMP247,Meera Qureshi,2019-03-28,16,L3,Hyderabad,Active
+EMP466,Varun,Jackson,Varun Jackson,varun.jackson@company.com,9548015716,Sales,Manager,EMP207,Sneha Chakraborty,2021-07-01,21,L4,Mumbai,Resigned
+EMP467,Sadia,Williams,Sadia Williams,sadia.williams@company.com,9463175207,Engineering,Team Lead,EMP005,Vishal Dutta,2025-05-21,21,L3,Pune,On Leave
+EMP468,Shweta,Naidu,Shweta Naidu,shweta.naidu@company.com,9266912153,Operations,Analyst,EMP204,Pranav Sundaram,2019-05-18,7,L2,Mumbai,Active
+EMP469,William,Krishnan,William Krishnan,william.krishnan@company.com,9749946579,IT Support,Manager,EMP315,Girish Roy,2019-08-27,24,L4,Mumbai,Active
+EMP470,Christopher,Iyer,Christopher Iyer,christopher.iyer@company.com,9147732010,Engineering,Manager,EMP368,Megan Pandey,2020-01-04,12,L4,Delhi,Active
+EMP471,Hema,Das,Hema Das,hema.das@company.com,9499118773,Sales,Manager,EMP099,James Murthy,2020-12-07,17,L4,Pune,On Leave
+EMP472,Payal,Allen,Payal Allen,payal.allen@company.com,9800616756,Customer Success,Manager,EMP443,Shaan Murthy,2019-12-26,17,L4,Hyderabad,Active
+EMP473,Rina,Pillai,Rina Pillai,rina.pillai@company.com,9276246719,Customer Success,Senior Manager,EMP247,Meera Qureshi,2024-06-01,15,L5,Delhi,On Leave
+EMP474,Rachel,Ansari,Rachel Ansari,rachel.ansari@company.com,9280647969,Operations,Engineer,EMP332,Vinay Khanna,2018-04-26,18,L2,Chennai,Active
+EMP475,Pooja,Murthy,Pooja Murthy,pooja.murthy@company.com,9559056165,Operations,Team Lead,EMP488,Rajesh Rajan,2025-06-01,7,L3,Chennai,Active
+EMP476,Saroj,Mishra,Saroj Mishra,saroj.mishra@company.com,9491141520,Operations,Intern,EMP155,Vinay Shah,2022-09-27,18,L1,Pune,Resigned
+EMP477,Zara,Brown,Zara Brown,zara.brown@company.com,9407905696,Operations,Associate,EMP430,Vivek Rajan,2025-09-30,21,L1,Pune,Active
+EMP478,Christine,White,Christine White,christine.white@company.com,9529456371,Marketing,Engineer,EMP479,Michael Bhatt,2021-05-02,18,L2,Chennai,Active
+EMP479,Michael,Bhatt,Michael Bhatt,michael.bhatt@company.com,9919195419,Customer Success,Team Lead,EMP475,Pooja Murthy,2018-11-11,20,L3,Bengaluru,Active
+EMP480,Rina,White,Rina White,rina.white@company.com,9468536649,Customer Success,Senior Manager,EMP394,Aparna Ali,2025-01-15,22,L5,Bengaluru,Active
+EMP481,Kabir,Mukherjee,Kabir Mukherjee,kabir.mukherjee@company.com,9973748969,HR,Senior Manager,EMP275,Hina Bhatt,2023-03-10,4,L5,Bengaluru,Active
+EMP482,Shruti,Das,Shruti Das,shruti.das@company.com,9466513644,Finance,Engineer,EMP265,Archana Khan,2020-08-25,12,L2,Delhi,On Leave
+EMP483,Shruti,Reddy,Shruti Reddy,shruti.reddy@company.com,9230347786,IT Support,Intern,EMP490,Nandita Nambiar,2021-01-22,4,L1,Bengaluru,Active
+EMP484,Kavya,Dubey,Kavya Dubey,kavya.dubey@company.com,9482070015,Sales,Associate,EMP306,Yash Kapoor,2025-07-14,21,L1,Pune,Active
+EMP485,Sunita,Smith,Sunita Smith,sunita.smith@company.com,9231981898,Sales,Manager,EMP480,Rina White,2024-09-22,3,L4,Hyderabad,Active
+EMP486,Ashok,Bhatia,Ashok Bhatia,ashok.bhatia@company.com,9963632123,Sales,Manager,EMP134,Kunal Martinez,2024-08-11,1,L4,Pune,Active
+EMP487,Katherine,Young,Katherine Young,katherine.young@company.com,9515867342,Operations,Manager,EMP184,Aryan Sethi,2021-06-16,0,L4,Delhi,Active
+EMP488,Rajesh,Rajan,Rajesh Rajan,rajesh.rajan@company.com,9034864518,Marketing,Manager,EMP023,Sneha Pillai,2022-05-29,29,L4,Pune,Active
+EMP489,Nalini,Jain,Nalini Jain,nalini.jain@company.com,9134327560,Sales,Associate,EMP023,Sneha Pillai,2022-08-19,29,L1,Pune,Active
+EMP490,Nandita,Nambiar,Nandita Nambiar,nandita.nambiar@company.com,9612481569,Operations,Manager,EMP326,Kamala Mirza,2018-08-02,20,L4,Delhi,Active
+EMP491,Preeti,Fernandez,Preeti Fernandez,preeti.fernandez@company.com,9720634591,Engineering,Executive,EMP256,Yash Anderson,2025-04-13,24,L2,Bengaluru,On Leave
+EMP492,Rekha,Hussain,Rekha Hussain,rekha.hussain@company.com,9657724295,Sales,Analyst,EMP295,Fatima D'Souza,2022-02-14,5,L2,Hyderabad,Active
+EMP493,James,Mehra,James Mehra,james.mehra@company.com,9930089317,Marketing,Engineer,EMP095,Andrew Davis,2018-07-23,12,L2,Delhi,Active
+EMP494,Amanda,Hussain,Amanda Hussain,amanda.hussain@company.com,9421529108,IT Support,Manager,EMP315,Girish Roy,2019-05-01,7,L4,Delhi,Active
+EMP495,Piyush,Sen,Piyush Sen,piyush.sen@company.com,9447626393,Sales,Analyst,EMP418,James Siddiqui,2022-08-01,25,L2,Pune,Active
+EMP496,Madhuri,Gupta,Madhuri Gupta,madhuri.gupta@company.com,9443973597,Engineering,Intern,EMP207,Sneha Chakraborty,2021-08-17,22,L1,Pune,Active
+EMP497,Sarah,Mascarenhas,Sarah Mascarenhas,sarah.mascarenhas@company.com,9366941180,HR,Senior Engineer,EMP161,Samantha Rodrigues,2021-12-22,19,L3,Bengaluru,Active
+EMP498,Pooja,Sharma,Pooja Sharma,pooja.sharma@company.com,9489646528,HR,Executive,EMP072,Eric Srivastava,2023-08-26,15,L2,Chennai,Active
+EMP499,Milind,Wilson,Milind Wilson,milind.wilson@company.com,9215862415,HR,Executive,EMP372,Aarti Nambiar,2022-01-16,29,L2,Pune,Active
+EMP500,Daniel,Agarwal,Daniel Agarwal,daniel.agarwal@company.com,9494856257,Finance,Senior Manager,EMP340,Sadia Ghosh,2022-12-08,1,L5,Delhi,Resigned
